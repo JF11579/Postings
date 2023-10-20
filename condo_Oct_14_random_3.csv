@@ -1,0 +1,1368 @@
+ML#,Style,Development,Sold_Price,Baths Half,Bath,Bedrooms,Appearance,Unit on Floor #,Days On Market,Contract Date,Listing Price,Town
+2,Other,123    Main St,239000,1,0,1,,2,26,6/27/2020,239000,Eastern
+1,Co-Op,123 Main St,224000,1,1,1,Mint,1,130,03/06/2020,229000,Eastern
+5,Other,123 Main St,210000,1,0,1,,1,142,12/11/2020,235000,Eastern
+4,Other,123 Main St,230000,1,0,1,,2,12,11/11/2020,235000,Eastern
+6,Garden Apartment,123 Main St,265000,1,0,1,Mint,2,21,09/09/2022,269000,Eastern
+3,Other,123 Maine St,220000,1,1,1,excel,1,34,07/03/2020,229900,Eastern
+12,Townhouse,Beach Manor,450000,2,1,2,Mint,1,19,4/10/2022,499999,Westville
+13,Townhouse,Beach Manor,469000,2,1,2,,1,16,8/18/2022,469000,Westville
+234,Townhouse,Brookstown,394000,2,1,2,Beautiful,1,17,09/08/2020,359999,Lisps
+261,Other,Bucolic,350000,2,0,2,,1,30,01/02/2022,358000,Coral
+262,Townhouse,Bucolic,400000,2,0,2,Diamond,1,21,1/17/2022,399900,Coral
+263,Other,Bucolic,381000,2,0,2,Excellent,1,25,1/24/2022,369999,Coral
+264,Other,Bucolic,398500,2,0,2,,1,13,3/25/2022,399000,Coral
+265,Other,Bucolic,384990,2,0,2,Mint,1,61,3/31/2022,384990,Coral
+266,Other,Bucolic,350000,2,0,2,,1,14,4/18/2022,359999,Coral
+267,Other,Bucolic,369000,2,0,2,Excellent,1,47,4/21/2022,369000,Coral
+268,Other,Bucolic,372000,2,0,2,Excellent,1,145,06/03/2022,369000,Coral
+269,Other,Bucolic,365000,2,0,2,,1,41,7/14/2022,374000,Coral
+270,Other,Bucolic,356800,2,0,2,Mint,1,56,8/25/2022,359500,Coral
+271,Other,Bucolic,410000,2,0,2,Excellent,1,37,9/18/2022,439000,Coral
+272,Other,Bucolic,389000,2,0,2,Mint,1,18,11/18/2022,389000,Coral
+273,Other,Bucolic,345000,2,0,2,Mint,1,94,12/08/2022,369000,Coral
+274,Other,Bucolic,320000,2,0,2,,1,76,2/17/2023,319000,Coral
+275,Other,Bucolic,350000,2,0,2,Mint,1,15,04/06/2023,359999,Coral
+276,Townhouse,Bucolic,390000,2,0,2,Mint,1,47,4/21/2023,409900,Coral
+277,Other,Bucolic,410000,2,0,2,Diamond,1,26,05/08/2023,399000,Coral
+278,Other,Bucolic,370000,2,0,2,Mint,1,34,5/26/2023,379000,Coral
+279,Other,Bucolic,360000,2,0,2,Mint,1,25,7/13/2023,373000,Coral
+280,Other,Bucolic,419000,2,0,2,Mint,1,7,8/12/2023,419000,Coral
+281,Other,Bucolic,285000,2,0,2,Mint,1,204,3/12/2020,297000,Coral
+282,Other,Bucolic,328000,2,1,2,Mint,1,22,5/31/2020,328000,Coral
+283,Other,Bucolic,323999,2,0,2,Pristine,1,65,06/01/2020,326999,Coral
+284,Other,Bucolic,298500,2,0,2,,1,54,06/06/2020,320000,Coral
+285,Other,Bucolic,310000,2,0,2,Mint,1,21,07/09/2020,310000,Coral
+286,Other,Bucolic,360000,2,0,2,Diamond++,1,20,12/11/2020,339999,Coral
+287,Other,Bucolic,335000,2,0,2,Excellent,1,52,02/05/2021,339000,Coral
+288,Other,Bucolic,329000,2,0,2,Mint,1,18,3/15/2021,329000,Coral
+289,Other,Bucolic,330000,2,0,2,Mint,1,23,3/20/2021,329000,Coral
+290,Other,Bucolic,330000,2,0,2,Excellent,1,150,3/29/2021,327000,Coral
+291,Other,Bucolic,325000,2,0,2,Mint+,1,21,04/02/2021,328000,Coral
+292,Other,Bucolic,349000,2,0,2,Mint,1,28,4/12/2021,349000,Coral
+293,Other,Bucolic,339000,2,0,2,Mint,1,27,5/15/2021,339000,Coral
+294,Other,Bucolic,350000,2,0,2,Mint,1,15,7/29/2021,339000,Coral
+295,Other,Bucolic,300000,2,0,2,Mint +,1,17,7/31/2021,299999,Coral
+296,Other,Bucolic,350000,2,0,2,,1,13,8/18/2021,344900,Coral
+297,Other,Bucolic,375000,2,0,2,Mint,1,9,8/21/2021,349000,Coral
+298,Other,Bucolic,360000,2,0,2,Mint,1,24,10/25/2021,349850,Coral
+299,Other,Bucolic,300000,2,0,2,,1,36,12/27/2021,339900,Coral
+300,,Bucolic,300000,2,0,2,Mint,1,35,03/03/2020,309000,Coral
+301,Garden Apartment,Bucolic,314000,2,0,2,,1,87,5/11/2020,319000,Coral
+228,Other,Cam Bridge,277000,2,0,2,Diamond,1,15,4/15/2020,279000,Coral
+230,Other,Cambridg,225000,1,0,1,mint+,1,19,5/23/2020,225000,Coral
+47,Townhouse,Cambridge,360000,1,1,1,Diamnond++,0,87,4/25/2022,349900,Coral
+49,Townhouse,Cambridge,410000,2,1,2,DIAMOND,0,12,4/30/2022,399990,Coral
+65,Townhouse,Cambridge,380000,2,1,2,,0,64,7/13/2022,399000,Coral
+165,Other,Cambridge,350000,2,1,2,mint,0,65,3/13/2021,349999,Coral
+24,Other,Cambridge,300000,2,0,2,Nice!,1,20,1/28/2022,300000,Coral
+25,Other,Cambridge,285000,1,0,1,Mint,1,28,02/02/2022,295500,Coral
+27,Other,Cambridge,310000,1,0,1,mint,1,57,2/12/2022,320000,Coral
+30,Other,Cambridge,330000,2,0,2,MINT,1,33,2/26/2022,335000,Coral
+31,Other,Cambridge,350000,1,1,1,,1,10,2/28/2022,355000,Coral
+32,Other,Cambridge,265000,1,0,1,mint,1,16,03/02/2022,300000,Coral
+33,Townhouse,Cambridge,355000,1,1,1,,1,10,03/08/2022,365000,Coral
+34,Other,Cambridge,360000,2,0,2,,1,19,03/08/2022,340000,Coral
+35,Other,Cambridge,320000,2,0,2,,1,11,03/09/2022,299000,Coral
+36,Townhouse,Cambridge,291000,1,1,1,,1,72,03/07/2022,320000,Coral
+37,Other,Cambridge,320000,1,0,1,,1,7,3/13/2022,309000,Coral
+38,Garden Apartment,Cambridge,370000,1,1,1,Diamond,1,9,3/14/2022,325000,Coral
+39,Townhouse,Cambridge,371000,2,0,2,Excellent,1,43,3/15/2022,369000,Coral
+40,Other,Cambridge,340000,2,0,2,Excellent,1,10,3/24/2022,309999,Coral
+41,Townhouse,Cambridge,369990,2,1,2,Excellent,1,22,04/01/2022,369990,Coral
+42,Townhouse,Cambridge,420000,2,1,2,Excellent,1,144,04/04/2022,400000,Coral
+43,Garden Apartment,Cambridge,220000,2,0,2,,1,21,04/05/2022,175000,Coral
+44,Townhouse,Cambridge,276000,1,1,1,Average,1,18,4/11/2022,254900,Coral
+46,Townhouse,Cambridge,375000,2,1,2,,1,15,4/16/2022,385000,Coral
+48,Other,Cambridge,407000,2,0,2,,1,13,4/25/2022,389000,Coral
+50,Other,Cambridge,345000,2,0,2,Excellent,1,21,05/02/2022,329999,Coral
+51,Townhouse,Cambridge,365000,2,1,2,Excellent,1,111,5/10/2022,340000,Coral
+53,Townhouse,Cambridge,330000,1,1,1,,1,10,5/16/2022,314000,Coral
+54,Townhouse,Cambridge,390000,2,1,2,Mint,1,12,5/21/2022,389900,Coral
+55,Townhouse,Cambridge,325000,1,1,1,,1,119,5/24/2022,349900,Coral
+56,Other,Cambridge,316000,1,1,1,,1,2,06/07/2022,310000,Coral
+57,Other,Cambridge,380000,2,1,2,,1,74,06/09/2022,379000,Coral
+59,Townhouse,Cambridge,277000,1,0,1,diamond!!,1,24,6/17/2022,269000,Coral
+60,Other,Cambridge,360000,1,1,1,,1,47,6/17/2022,349000,Coral
+61,Other,Cambridge,382500,2,0,2,,1,15,6/21/2022,395000,Coral
+62,Other,Cambridge,280000,1,1,1,Excellent,1,12,6/29/2022,269990,Coral
+63,Other,Cambridge,375000,2,0,2,,1,28,6/29/2022,388000,Coral
+64,Townhouse,Cambridge,329000,1,1,1,,1,38,07/09/2022,329000,Coral
+66,Other,Cambridge,380000,2,0,2,,1,18,7/15/2022,389000,Coral
+67,Other,Cambridge,325000,1,1,1,mint,1,16,7/16/2022,325000,Coral
+68,Townhouse,Cambridge,242000,1,1,1,,1,3,7/20/2022,229000,Coral
+69,Other,Cambridge,275000,1,0,1,,1,5,7/20/2022,249000,Coral
+71,Other,Cambridge,350000,1,0,1,Diamond,1,21,08/02/2022,359000,Coral
+72,Other,Cambridge,370000,2,0,2,,1,29,08/09/2022,359000,Coral
+74,Other,Cambridge,300000,1,1,1,Mint,1,36,8/25/2022,319000,Coral
+76,Other,Cambridge,395000,2,1,2,Diamond,1,38,9/12/2022,389000,Coral
+77,Other,Cambridge,370000,1,1,1,,1,18,9/16/2022,379000,Coral
+78,Other,Cambridge,317500,2,0,2,Excellent,1,32,9/22/2022,334900,Coral
+79,Other,Cambridge,262000,1,1,1,Excellent,1,5,9/29/2022,249000,Coral
+80,Other,Cambridge,285000,1,1,1,,1,2,10/04/2022,285000,Coral
+81,Townhouse,Cambridge,395000,2,1,2,Excellent,1,56,10/17/2022,414999,Coral
+84,Other,Cambridge,360000,1,1,1,,1,86,11/07/2022,369000,Coral
+85,Townhouse,Cambridge,347000,1,1,1,,1,19,11/09/2022,349000,Coral
+87,Other,Cambridge,288000,1,0,1,mINT,1,91,11/25/2022,294990,Coral
+88,Townhouse,Cambridge,360000,1,1,1,,1,32,12/02/2022,369000,Coral
+89,Townhouse,Cambridge,345000,2,0,2,Mint +,1,97,12/02/2022,360000,Coral
+90,Other,Cambridge,377500,2,0,2,MINT,1,29,12/06/2022,385000,Coral
+91,Townhouse,Cambridge,400000,1,1,1,Diamond,1,64,12/12/2022,389900,Coral
+92,Other,Cambridge,344000,2,0,2,,1,35,12/16/2022,349990,Coral
+93,Other,Cambridge,350000,2,0,2,MINT,1,56,12/17/2022,349989,Coral
+94,Townhouse,Cambridge,389000,1,1,1,,1,15,01/02/2023,389000,Coral
+95,Townhouse,Cambridge,395000,1,1,1,,1,14,1/17/2023,399000,Coral
+97,Townhouse,Cambridge,355000,1,1,1,,1,21,02/08/2023,350000,Coral
+98,Other,Cambridge,349000,2,0,2,Pristene,1,31,2/13/2023,349000,Coral
+100,Garden Apartment,Cambridge,327000,2,0,2,Excellent+,1,24,03/06/2023,329000,Coral
+102,Other,Cambridge,367500,1,1,1,Mint+,1,49,02/09/2023,349999,Coral
+105,Other,Cambridge,292000,1,0,1,Excellent,1,12,4/20/2023,274900,Coral
+106,Other,Cambridge,360000,1,0,1,Mint+++,1,20,4/20/2023,354999,Coral
+107,Other,Cambridge,373000,2,0,2,,1,89,4/22/2023,370000,Coral
+109,Townhouse,Cambridge,400000,2,1,2,diamond ++,1,5,06/08/2023,399000,Coral
+111,Other,Cambridge,325000,1,0,1,new,1,6,7/17/2023,319999,Coral
+112,See Remarks,Cambridge,233700,1,0,1,,1,104,11/09/2022,262400,Coral
+113,Condo,Cambridge,255000,2,0,2,Great,1,199,01/09/2020,269990,Coral
+114,Condo,Cambridge,272000,2,0,2,Diamond,1,131,3/12/2020,285880,Coral
+116,Townhouse,Cambridge,305000,1,1,1,DIAMOND,1,27,5/13/2020,295000,Coral
+117,Other,Cambridge,240000,2,0,2,mint,1,72,5/20/2020,255000,Coral
+118,Townhouse,Cambridge,278950,1,1,1,Mint,1,61,5/21/2020,279990,Coral
+119,High Rise,Cambridge,283000,2,1,2,Good,1,28,5/26/2020,289990,Coral
+120,Townhouse,Cambridge,260000,2,0,2,Great,1,173,01/09/2020,269990,Coral
+121,Other,Cambridge,245000,2,0,2,,1,86,06/05/2020,239000,Coral
+123,Townhouse,Cambridge,281500,1,1,1,Excellent,1,50,6/24/2020,269990,Coral
+124,Other,Cambridge,255000,2,0,2,,1,54,6/25/2020,259000,Coral
+125,Other,Cambridge,289900,2,1,2,Exc/Mint,1,112,07/02/2020,289900,Coral
+126,Other,Cambridge,290000,2,1,2,Mint,1,17,07/03/2020,324000,Coral
+127,Other,Cambridge,278000,2,0,2,pristene,1,39,07/06/2020,278000,Coral
+128,Other,Cambridge,249000,1,0,1,Diamond,1,30,07/06/2020,239900,Coral
+129,Other,Cambridge,322500,2,1,2,Diamond,1,10,7/26/2020,315000,Coral
+130,Other,Cambridge,315000,1,1,1,pristene,1,14,08/04/2020,315000,Coral
+131,Garden Apartment,Cambridge,310000,2,0,2,MINT,1,36,8/10/2020,310000,Coral
+134,Townhouse,Cambridge,310000,1,1,1,,1,189,8/20/2020,310000,Coral
+135,Other,Cambridge,265000,1,0,1,,1,13,8/29/2020,259000,Coral
+136,Townhouse,Cambridge,294000,1,1,1,Great,1,98,9/15/2020,289900,Coral
+138,Garden Apartment,Cambridge,269000,2,0,2,,1,19,10/14/2020,269000,Coral
+140,Other,Cambridge,315000,1,1,1,mint,1,1,10/31/2020,299900,Coral
+141,Other,Cambridge,289900,2,0,2,Mint ++,1,7,11/11/2020,289900,Coral
+142,Other,Cambridge,280000,2,0,2,,1,33,11/10/2020,279999,Coral
+143,Other,Cambridge,340000,2,1,2,,1,9,11/15/2020,319999,Coral
+145,Other,Cambridge,279000,1,1,1,Mint,1,24,12/12/2020,285000,Coral
+146,Other,Cambridge,280000,2,0,2,mint,1,20,12/26/2020,295000,Coral
+147,Other,Cambridge,290000,2,0,2,mint,1,83,01/04/2021,289900,Coral
+148,Other,Cambridge,315000,2,1,2,,1,10,01/08/2021,325000,Coral
+149,Townhouse,Cambridge,300000,2,0,2,Mint,1,52,1/18/2021,305000,Coral
+150,Townhouse,Cambridge,312000,1,1,1,Excellent,1,14,02/01/2021,289000,Coral
+151,Other,Cambridge,320000,2,0,2,,1,9,02/03/2021,289000,Coral
+152,Other,Cambridge,262000,2,0,2,Mint,1,45,02/04/2021,270417,Coral
+153,Other,Cambridge,285000,2,0,2,,1,13,02/04/2021,275000,Coral
+154,Other,Cambridge,295000,2,0,2,,1,20,2/10/2021,279900,Coral
+155,Other,Cambridge,300000,2,0,2,excellent,1,53,2/12/2021,279000,Coral
+156,Townhouse,Cambridge,320000,1,1,1,Mint+++,1,20,2/17/2021,319000,Coral
+157,Townhouse,Cambridge,297500,1,1,1,,1,22,2/16/2021,279999,Coral
+158,Townhouse,Cambridge,279000,1,1,1,Excellent,1,35,2/24/2021,269990,Coral
+159,Other,Cambridge,288500,1,1,1,mint,1,6,2/25/2021,280000,Coral
+161,Other,Cambridge,286000,2,0,2,,1,6,03/08/2021,269900,Coral
+162,Townhouse,Cambridge,255000,2,0,2,,1,10,03/08/2021,244900,Coral
+163,Other,Cambridge,280000,1,1,1,,1,95,03/08/2021,283000,Coral
+164,Garden Apartment,Cambridge,350000,2,1,2,Mint,1,27,03/08/2021,349999,Coral
+166,Townhouse,Cambridge,297500,1,1,1,Updated,1,22,3/13/2021,279000,Coral
+167,Other,Cambridge,349000,2,1,2,mint,1,11,3/18/2021,347999,Coral
+169,Other,Cambridge,288000,2,0,2,mint,1,79,3/22/2021,275000,Coral
+170,Garden Apartment,Cambridge,275000,2,0,2,Mint,1,62,3/24/2021,279900,Coral
+172,Garden Apartment,Cambridge,324900,2,0,2,Pristine,1,71,04/08/2021,324900,Coral
+173,Townhouse,Cambridge,335000,2,0,2,,1,15,04/08/2021,299900,Coral
+174,Other,Cambridge,310000,2,0,2,mint,1,28,04/09/2021,329000,Coral
+175,Other,Cambridge,315000,2,0,2,mint,1,53,4/22/2021,319990,Coral
+176,Other,Cambridge,375000,2,1,2,Diamond,1,6,4/24/2021,349000,Coral
+177,Other,Cambridge,395200,2,1,2,Mint,1,48,4/24/2021,365000,Coral
+178,Garden Apartment,Cambridge,275000,2,0,2,,1,25,05/02/2021,279789,Coral
+179,Other,Cambridge,275000,2,0,2,mint,1,15,5/12/2021,275000,Coral
+180,Other,Cambridge,290000,2,0,2,,1,15,5/12/2021,290000,Coral
+181,Other,Cambridge,315000,1,1,1,,1,5,5/12/2021,295000,Coral
+182,Townhouse,Cambridge,320000,1,1,1,Excellent,1,25,5/13/2021,329000,Coral
+183,Other,Cambridge,357000,2,1,2,mint,1,47,5/14/2021,358000,Coral
+184,Townhouse,Cambridge,315000,1,1,1,Excellent,1,25,5/20/2021,299500,Coral
+185,Townhouse,Cambridge,350000,2,1,2,Excellent,1,10,5/27/2021,350000,Coral
+186,Other,Cambridge,315000,2,0,2,Diamond,1,28,06/03/2021,299990,Coral
+187,Townhouse,Cambridge,305000,1,1,1,Mint,1,26,06/06/2021,279999,Coral
+188,Other,Cambridge,329000,2,0,2,,1,86,06/09/2021,329000,Coral
+190,Other,Cambridge,270000,1,0,1,Mint,1,12,6/12/2021,259999,Coral
+191,Garden Apartment,Cambridge,300000,1,1,1,excellent,1,15,6/21/2021,310000,Coral
+192,Townhouse,Cambridge,345000,2,1,2,mint,1,93,6/26/2021,349990,Coral
+193,Other,Cambridge,360000,2,1,2,,1,218,6/29/2021,360000,Coral
+194,Garden Apartment,Cambridge,305000,2,0,2,Mint,1,13,07/08/2021,299000,Coral
+195,Townhouse,Cambridge,350000,1,1,1,Diamond,1,24,7/10/2021,349999,Coral
+196,Townhouse,Cambridge,355000,2,1,2,,1,46,7/17/2021,329999,Coral
+197,Other,Cambridge,310000,2,0,2,Mint,1,6,7/19/2021,310000,Coral
+199,Townhouse,Cambridge,340000,2,0,2,Excellent,1,38,7/23/2021,349999,Coral
+200,Other,Cambridge,275000,2,0,2,Diamond,1,104,7/23/2021,280000,Coral
+201,Other,Cambridge,270000,1,0,1,Mint,1,36,7/26/2021,289900,Coral
+202,Other,Cambridge,255000,2,0,2,Excellent,1,102,7/31/2021,268000,Coral
+203,Other,Cambridge,267000,2,0,2,Mint,1,38,08/02/2021,285000,Coral
+204,Other,Cambridge,253800,2,0,2,MINT,1,95,08/02/2021,288900,Coral
+205,Townhouse,Cambridge,385000,2,1,2,Diamond,1,10,8/13/2021,364999,Coral
+206,Other,Cambridge,325000,2,0,2,Excellent,1,18,9/20/2021,319990,Coral
+208,Other,Cambridge,307961,1,0,1,Mint ++,1,15,9/22/2021,295000,Coral
+209,Townhouse,Cambridge,325000,1,1,1,Excellent,1,35,9/24/2021,324990,Coral
+210,Townhouse,Cambridge,337000,2,1,2,Excellent,1,87,9/28/2021,329900,Coral
+211,Condo,Cambridge,310000,2,0,2,MINT,1,47,10/07/2021,339000,Coral
+213,Townhouse,Cambridge,365000,2,1,2,,1,48,11/02/2021,369000,Coral
+214,Other,Cambridge,300000,2,0,2,pristene,1,72,11/10/2021,325000,Coral
+215,Other,Cambridge,310000,2,0,2,mint+,1,21,12/01/2021,319000,Coral
+217,Other,Cambridge,309000,2,0,2,,1,11,12/27/2021,309000,Coral
+218,Other,Cambridge,285000,2,0,2,MINT,1,16,12/28/2021,300000,Coral
+219,Condo,Cambridge,258700,1,1,1,mint,1,11,01/04/2020,286000,Coral
+221,Condo,Cambridge,240000,2,0,2,,1,43,1/23/2020,247000,Coral
+222,Condo,Cambridge,295000,2,1,2,Diamond+++,1,21,1/28/2020,289990,Coral
+223,Condo,Cambridge,268000,2,1,2,MINT,1,42,02/03/2020,274900,Coral
+224,Condo,Cambridge,288000,1,1,1,pristene,1,30,2/28/2020,295000,Coral
+225,Condo,Cambridge,284900,2,0,2,,1,95,3/21/2020,284900,Coral
+227,Other,Cambridge,256750,1,0,1,,1,46,04/02/2020,258500,Coral
+233,Other,Cambridge,325000,2,1,2,6M Mint,1,17,6/27/2020,299990,Coral
+26,Townhouse,Cambridge,365000,2,1,2,,2,15,02/09/2022,359000,Coral
+28,Townhouse,Cambridge,300000,1,0,1,Diamond,2,15,2/15/2022,279999,Coral
+29,Other,Cambridge,330000,2,0,2,,2,1,2/25/2022,325000,Coral
+45,Other,Cambridge,325000,2,0,2,mint,2,11,4/14/2022,325000,Coral
+52,Other,Cambridge,355000,2,1,2,,2,145,5/11/2022,369990,Coral
+58,Other,Cambridge,258000,1,0,1,,2,26,6/16/2022,275000,Coral
+70,Townhouse,Cambridge,360000,2,0,2,DIAMOND++,2,33,7/28/2022,349900,Coral
+73,Other,Cambridge,265000,2,0,2,,2,19,8/11/2022,315000,Coral
+75,Other,Cambridge,389000,2,1,2,,2,145,8/27/2022,390000,Coral
+83,Townhouse,Cambridge,305000,1,0,1,Diamond,2,12,11/04/2022,299999,Coral
+86,Other,Cambridge,312000,2,0,2,,2,76,9/27/2022,334999,Coral
+96,Townhouse,Cambridge,339000,2,0,2,great,2,156,1/17/2023,349900,Coral
+99,Other,Cambridge,295000,2,0,2,,2,59,01/03/2023,315000,Coral
+101,Garden Apartment,Cambridge,300000,1,0,1,,2,12,3/10/2023,274999,Coral
+103,Garden Apartment,Cambridge,370000,2,0,2,Mint,2,3,3/30/2023,339000,Coral
+104,Other,Cambridge,375000,1,1,1,,2,4,4/17/2023,349999,Coral
+108,Other,Cambridge,350000,2,0,2,Mint++,2,43,5/16/2023,349999,Coral
+110,Other,Cambridge,336000,1,0,1,,2,15,6/25/2023,309990,Coral
+115,Condo,Cambridge,230720,1,0,1,Mint++,2,164,3/14/2020,229999,Coral
+122,Other,Cambridge,195000,1,0,1,Mint,2,20,6/10/2020,195000,Coral
+132,Other,Cambridge,270000,1,0,1,pristene,2,12,8/13/2020,265000,Coral
+133,Other,Cambridge,265000,2,0,2,Mint,2,20,8/19/2020,249990,Coral
+137,Other,Cambridge,257000,1,0,1,Diamond++,2,16,9/23/2020,259900,Coral
+139,Other,Cambridge,270000,1,0,1,Mint,2,55,10/29/2020,269990,Coral
+144,Other,Cambridge,275000,2,0,2,pristene,2,11,11/23/2020,269000,Coral
+160,Other,Cambridge,285000,2,0,2,,2,43,2/27/2021,289900,Coral
+168,Other,Cambridge,290000,2,0,2,mint,2,16,3/20/2021,285000,Coral
+171,Other,Cambridge,240000,1,0,1,mint,2,116,3/25/2021,249000,Coral
+189,Other,Cambridge,275000,2,0,2,Mint,2,26,6/11/2021,275000,Coral
+207,Other,Cambridge,285000,1,0,1,Mint,2,42,9/22/2021,288000,Coral
+212,Other,Cambridge,284250,1,0,1,Prestine,2,108,10/08/2021,300000,Coral
+216,Garden Apartment,Cambridge,284500,1,0,1,perfect,2,21,12/15/2021,279000,Coral
+220,Condo,Cambridge,248000,2,0,2,pristene,2,3,1/10/2020,254000,Coral
+226,Condo,Cambridge,251000,1,0,1,Pristine,2,67,3/20/2020,259990,Coral
+82,Other,Cambridge,340000,2,0,2,,2,10,8/17/2022,349000,Coral
+198,Other,Cambridge,325000,1,1,1,,2,55,7/21/2021,325000,Coral
+229,Other,Cambridged,217000,1,1,1,,1,57,5/20/2020,225000,Coral
+231,Other,Cambrige,245000,2,0,2,mint,1,36,06/09/2020,265000,Coral
+232,Other,Camebridge,312500,2,0,2,Mint++,1,18,6/15/2020,309500,Coral
+260,Townhouse,Capital Height,420000,2,1,2,Mint+,1,9,3/15/2023,399000,Affected
+252,Townhouse,Capital Heights,415000,2,1,2,Mint +,1,64,11/05/2020,425000,Affected
+253,Townhouse,Capital Heights,445000,2,1,2,Diamond,1,28,6/19/2021,449999,Affected
+254,Townhouse,Capital Heights,340000,2,1,2,Mint,1,40,9/24/2021,349990,Affected
+255,Townhouse,Capital Heights,389000,2,1,2,Mint *,1,33,1/19/2022,389000,Affected
+256,Townhouse,Capital Heights,380000,2,1,2,,1,31,04/03/2022,379999,Affected
+257,Townhouse,Capital Heights,440000,2,1,2,Diamond+,1,8,4/21/2022,399000,Affected
+258,Townhouse,Capital Heights,385000,2,1,2,Excellent,1,12,10/15/2022,379000,Affected
+259,Townhouse,Capitalheights,369000,2,1,2,Mint,0,54,10/23/2022,369000,Affected
+428,Garden Apartment,Clover,170000,1,0,1,Excellent,1,11,5/30/2020,180000,Lisps
+430,Garden Apartment,Clover,134000,1,0,1,Diamond,1,43,06/02/2020,139990,Lisps
+433,Garden Apartment,Clover,180000,1,0,1,,1,99,7/15/2020,164900,Lisps
+438,Garden Apartment,Clover,184000,1,0,1,MINT,1,17,8/29/2020,179000,Lisps
+441,Garden Apartment,Clover,182000,1,0,1,,1,17,10/14/2020,190000,Lisps
+445,Mid Rise,Clover,140000,1,0,1,Mint,1,64,12/21/2020,149999,Lisps
+446,Other,Clover,160000,1,0,1,Mint++,1,31,02/06/2021,159900,Lisps
+449,Garden Apartment,Clover,221000,1,0,1,DIAMOND,1,11,3/12/2021,194990,Lisps
+451,Garden Apartment,Clover,180000,1,0,1,,1,15,04/07/2021,179990,Lisps
+452,Other,Clover,200000,1,0,1,,1,16,4/26/2021,179999,Lisps
+453,Garden Apartment,Clover,185000,1,0,1,excellent,1,47,5/13/2021,185000,Lisps
+455,Garden Apartment,Clover,190000,1,0,1,Diamond,1,28,6/11/2021,179990,Lisps
+456,Garden Apartment,Clover,190000,1,0,1,Excellent,1,55,6/17/2021,190000,Lisps
+460,Garden Apartment,Clover,240000,1,0,1,Excellent,1,39,7/27/2021,249000,Lisps
+461,Garden Apartment,Clover,170000,1,0,1,Mint,1,20,08/06/2021,154990,Lisps
+464,Co-Op,Clover,220000,1,0,1,Mint,1,24,8/16/2021,229000,Lisps
+466,Garden Apartment,Clover,195000,1,0,1,Mint,1,189,04/07/2021,179999,Lisps
+468,Garden Apartment,Clover,195000,1,0,1,,1,54,9/19/2021,199999,Lisps
+471,Garden Apartment,Clover,220000,1,0,1,,1,21,10/21/2021,199999,Lisps
+472,Garden Apartment,Clover,185000,1,0,1,Mint,1,28,02/08/2022,179990,Lisps
+473,Garden Apartment,Clover,200000,1,0,1,Good,1,18,2/21/2022,199000,Lisps
+474,Garden Apartment,Clover,230000,1,0,1,,1,149,2/25/2022,215000,Lisps
+477,Garden Apartment,Clover,275000,1,0,1,Mint,1,19,5/30/2022,249999,Lisps
+478,Garden Apartment,Clover,245000,1,0,1,,1,20,06/02/2022,219900,Lisps
+481,Garden Apartment,Clover,235000,1,0,1,,1,13,8/19/2022,219000,Lisps
+484,Garden Apartment,Clover,225000,1,0,1,Mint,1,119,9/16/2022,219000,Lisps
+487,Garden Apartment,Clover,210000,1,0,1,Excellent,1,34,10/24/2022,220000,Lisps
+488,Garden Apartment,Clover,220000,1,0,1,,1,26,10/26/2022,219900,Lisps
+490,Garden Apartment,Clover,180000,1,0,1,needs tlc,1,96,11/17/2022,180000,Lisps
+491,Garden Apartment,Clover,215000,1,0,1,excellent,1,15,12/15/2022,209000,Lisps
+496,Garden Apartment,Clover,235000,1,0,1,,1,13,6/14/2023,220000,Lisps
+497,Co-Op,Clover,162500,1,0,1,Excellent,1,13,2/10/2020,155000,Lisps
+498,Townhouse,Clover,145000,1,0,1,Mint,1,17,5/25/2020,160000,Lisps
+501,Co-Op,Clover,135000,1,0,1,,1,86,03/03/2020,139995,Lisps
+427,Other,Clover,155725,1,0,1,,2,50,03/09/2020,149000,Lisps
+429,Garden Apartment,Clover,195000,1,0,1,,2,231,06/02/2020,190000,Lisps
+431,Other,Clover,168000,1,0,1,Mint,2,10,6/19/2020,159999,Lisps
+432,Garden Apartment,Clover,161000,1,0,1,,2,8,7/16/2020,145000,Lisps
+434,Garden Apartment,Clover,162000,1,0,1,Excellent,2,21,7/20/2020,147500,Lisps
+435,Garden Apartment,Clover,182000,1,0,1,Excellent,2,11,7/20/2020,179500,Lisps
+436,Co-Op,Clover,144500,1,0,1,Excellent,2,39,7/24/2020,144500,Lisps
+437,Garden Apartment,Clover,155000,1,0,1,Excellent,2,31,7/25/2020,159000,Lisps
+439,Garden Apartment,Clover,144000,1,0,1,Excellent,2,34,9/26/2020,147500,Lisps
+440,Other,Clover,160000,1,0,1,Excellent+,2,12,10/01/2020,150000,Lisps
+442,Garden Apartment,Clover,155000,1,0,1,Mint,2,42,10/30/2020,159000,Lisps
+443,Garden Apartment,Clover,182000,1,0,1,,2,16,11/04/2020,180000,Lisps
+444,Garden Apartment,Clover,190000,1,0,1,Mint,2,28,11/13/2020,190000,Lisps
+447,Garden Apartment,Clover,185000,1,0,1,Gorgeous,2,15,2/19/2021,179999,Lisps
+448,Garden Apartment,Clover,190000,1,0,1,Mint,2,5,3/10/2021,179999,Lisps
+450,Garden Apartment,Clover,207500,1,0,1,mint,2,17,3/22/2021,190000,Lisps
+454,Garden Apartment,Clover,185000,1,0,1,Excellant,2,27,5/28/2021,199999,Lisps
+457,Garden Apartment,Clover,205000,1,0,1,Excellent,2,51,6/18/2021,199000,Lisps
+458,Garden Apartment,Clover,220000,1,0,1,Mint,2,12,07/08/2021,185000,Lisps
+459,Garden Apartment,Clover,235000,1,0,1,Excellent,2,83,7/14/2021,239900,Lisps
+462,Other,Clover,200000,1,0,1,mint,2,33,08/08/2021,199999,Lisps
+463,Garden Apartment,Clover,225000,1,0,1,Excellent,2,23,8/10/2021,229000,Lisps
+465,Garden Apartment,Clover,200000,1,0,1,Excellent,2,44,8/25/2021,199999,Lisps
+467,Garden Apartment,Clover,190000,1,0,1,Mint,2,48,9/13/2021,199000,Lisps
+469,Other,Clover,220000,1,0,1,DIAMOND,2,18,10/10/2021,199900,Lisps
+470,Garden Apartment,Clover,229900,1,0,1,Excellent,2,120,10/19/2021,239900,Lisps
+475,Co-Op,Clover,245000,1,0,1,Mint,2,25,4/28/2022,229000,Lisps
+479,Garden Apartment,Clover,185000,1,0,1,,2,15,6/16/2022,174999,Lisps
+480,Garden Apartment,Clover,226000,1,0,1,,2,21,6/22/2022,199000,Lisps
+482,Garden Apartment,Clover,257500,1,0,1,Mint,2,164,8/23/2022,257500,Lisps
+483,Garden Apartment,Clover,235000,1,0,1,,2,32,8/25/2022,229000,Lisps
+485,Garden Apartment,Clover,205000,1,0,1,Excellent,2,119,9/16/2022,209000,Lisps
+486,Garden Apartment,Clover,225000,1,0,1,Diamond,2,17,9/30/2022,215000,Lisps
+489,Garden Apartment,Clover,205000,1,0,1,,2,72,10/31/2022,215000,Lisps
+492,Garden Apartment,Clover,205000,1,0,1,,2,23,1/31/2023,205000,Lisps
+493,Garden Apartment,Clover,225000,1,0,1,,2,24,2/13/2023,189000,Lisps
+494,Garden Apartment,Clover,250000,1,0,1,,2,4,04/03/2023,219000,Lisps
+495,Garden Apartment,Clover,277500,1,0,1,,2,16,05/03/2023,265000,Lisps
+499,Co-Op,Clover,118000,1,0,1,Excellent,2,24,1/25/2020,118000,Lisps
+500,Co-Op,Clover,139900,1,0,1,GOOD,2,15,2/24/2020,139900,Lisps
+476,Garden Apartment,Clover,225000,1,0,1,,2,7,5/31/2022,225000,Lisps
+11,Condo,Cran Berrie,415000,2,1,2,Excellent,1,21,3/12/2020,429999,Affected
+7,Townhouse,Cranberry,450000,2,1,2,excellent,1,78,09/01/2020,449000,Affected
+8,Townhouse,Cranberry,489000,2,1,2,Diamond+++,1,13,4/21/2021,469999,Affected
+9,Other,Cranberry,459000,2,0,2,,1,33,9/24/2021,459000,Affected
+10,Condo,Crane Berry,275000,2,1,2,,1,59,02/03/2020,239900,Affected
+971,Condo,Crewville,331000,2,1,2,Excellent,1,35,2/27/2020,339000,Middletown
+972,Townhouse,Crewville,385000,2,1,2,Diamond,1,11,6/20/2020,395000,Middletown
+973,Townhouse,Crewville,329000,1,1,1,Mint ++,1,31,7/21/2020,329000,Middletown
+974,Other,Crewville,335000,1,1,1,,1,33,9/25/2020,324900,Middletown
+975,Townhouse,Crewville,335000,1,1,1,Excellent,1,18,10/23/2020,329990,Middletown
+976,Townhouse,Crewville,324000,1,1,1,Excellent,1,17,11/07/2020,327500,Middletown
+977,Townhouse,Crewville,324500,1,1,1,Excellent,1,17,11/07/2020,329000,Middletown
+978,Townhouse,Crewville,340000,2,1,2,Excellent,1,38,12/07/2020,358000,Middletown
+979,Townhouse,Crewville,401000,2,1,2,Mint,1,40,1/17/2021,399000,Middletown
+980,Townhouse,Crewville,350000,1,1,1,,1,24,02/08/2021,345000,Middletown
+981,Townhouse,Crewville,358000,1,1,1,Mint,1,21,2/10/2021,358000,Middletown
+982,Townhouse,Crewville,410000,2,1,2,Mint,1,10,3/12/2021,399900,Middletown
+983,Townhouse,Crewville,337500,2,1,2,Excellent,1,383,4/23/2021,350000,Middletown
+984,Townhouse,Crewville,437000,2,1,2,Mint,1,7,5/13/2021,439000,Middletown
+985,Townhouse,Crewville,405000,2,1,2,Mint++,1,28,5/14/2021,395000,Middletown
+986,Townhouse,Crewville,360000,1,1,1,Mint,1,34,5/14/2021,350000,Middletown
+987,Townhouse,Crewville,380000,2,1,2,Diamond,1,29,06/03/2021,379000,Middletown
+988,Townhouse,Crewville,405000,2,1,2,,1,16,6/14/2021,349999,Middletown
+989,Townhouse,Crewville,450000,2,1,2,Diamond,1,8,7/15/2021,419000,Middletown
+991,Townhouse,Crewville,365000,1,1,1,Excellent,1,48,7/24/2021,380000,Middletown
+992,Townhouse,Crewville,450000,2,1,2,Diamond+++,1,13,7/30/2021,429000,Middletown
+993,Townhouse,Crewville,442000,2,1,2,Diamond,1,14,08/09/2021,399999,Middletown
+994,Townhouse,Crewville,369000,1,1,1,Excellent,1,41,8/27/2021,359000,Middletown
+995,Townhouse,Crewville,450000,2,1,2,Mint,1,27,9/16/2021,420000,Middletown
+996,Townhouse,Crewville,487000,3,0,3,Mint,1,34,9/25/2021,499000,Middletown
+997,Townhouse,Crewville,355000,1,1,1,good,1,22,10/14/2021,334900,Middletown
+998,Townhouse,Crewville,395000,2,1,2,Mint,1,39,10/21/2021,359990,Middletown
+999,Townhouse,Crewville,375000,1,1,1,Mint,1,23,11/04/2021,375000,Middletown
+1000,Townhouse,Crewville,425000,2,1,2,,1,14,11/06/2021,425000,Middletown
+1001,Townhouse,Crewville,291000,1,1,1,,1,132,11/11/2021,280000,Middletown
+1002,Townhouse,Crewville,420000,2,1,2,Mint,1,21,11/15/2021,409000,Middletown
+1003,Townhouse,Crewville,400000,2,1,2,Good,1,41,12/30/2021,415000,Middletown
+1004,Townhouse,Crewville,400000,2,1,2,Mint,1,7,1/21/2022,400000,Middletown
+1007,Townhouse,Crewville,387500,1,1,1,Excellent,1,15,3/16/2022,384000,Middletown
+1008,Townhouse,Crewville,475000,2,1,2,Mint,1,19,3/30/2022,450000,Middletown
+1009,Townhouse,Crewville,430000,1,1,1,Mint,1,13,3/31/2022,369990,Middletown
+1010,Townhouse,Crewville,455000,2,0,2,Excellent,1,23,06/08/2022,428888,Middletown
+1011,Townhouse,Crewville,404000,1,1,1,Mint,1,12,6/11/2022,399900,Middletown
+1012,Townhouse,Crewville,395000,1,1,1,Mint,1,12,6/11/2022,380000,Middletown
+1013,Townhouse,Crewville,435000,2,1,2,Mint,1,22,07/06/2022,439999,Middletown
+1014,Townhouse,Crewville,437000,2,1,2,Diamond,1,15,7/20/2022,449000,Middletown
+1015,Townhouse,Crewville,480000,2,1,2,MINT,1,54,7/21/2022,485000,Middletown
+1016,Townhouse,Crewville,405000,2,1,2,Excellent,1,35,7/22/2022,390000,Middletown
+1017,Townhouse,Crewville,410000,1,2,1,Excellent,1,21,7/28/2022,409990,Middletown
+1018,Townhouse,Crewville,441000,2,1,2,,1,21,08/08/2022,449999,Middletown
+1019,Townhouse,Crewville,427500,1,1,1,,1,16,8/16/2022,439000,Middletown
+1020,Townhouse,Crewville,381000,2,1,2,,1,25,9/25/2022,399990,Middletown
+1021,Townhouse,Crewville,414999,1,1,1,,1,26,9/28/2022,414999,Middletown
+1022,Townhouse,Crewville,405000,1,1,1,Mint,1,125,10/14/2022,415000,Middletown
+1023,Townhouse,Crewville,420000,2,1,2,Mint,1,11,2/16/2023,420000,Middletown
+1024,Townhouse,Crewville,420000,1,1,1,,1,6,2/26/2023,425000,Middletown
+1025,Townhouse,Crewville,480000,2,1,2,Diamond++,1,20,3/30/2023,430000,Middletown
+1026,Townhouse,Crewville,435000,2,1,2,Good,1,25,4/10/2023,450000,Middletown
+1027,Townhouse,Crewville,415000,1,1,1,Good,1,14,4/14/2023,410000,Middletown
+1028,Townhouse,Crewville,435000,2,1,2,Mint,1,3,4/17/2023,415000,Middletown
+1029,Townhouse,Crewville,470000,2,1,2,,1,26,06/07/2023,439900,Middletown
+1030,Townhouse,Crewville,399000,2,1,2,Excellent+,1,4,6/22/2023,399000,Middletown
+1031,,Crewville,325000,1,1,1,Mint+,1,19,3/14/2020,325000,Middletown
+1032,Condo,Crewville,350000,3,1,3,DIamond,1,45,1/10/2020,339999,Middletown
+1033,,Crewville,400000,2,1,2,Excellent,1,11,1/25/2020,399999,Middletown
+1034,Townhouse,Crewville,303000,1,1,1,Mint,1,101,03/01/2020,324000,Middletown
+990,Townhouse,Crewville,390000,1,1,1,Mint,2,18,7/23/2021,399000,Middletown
+1005,Townhouse,Crewville,410000,2,1,2,Mint,2,13,02/04/2022,410000,Middletown
+1006,Townhouse,Crewville,396000,1,1,1,Mint,2,21,2/11/2022,375000,Middletown
+1283,Condo,Eastown,463835,2,0,2,New,1,193,1/18/2020,463900,Eastern
+1285,Other,Eastown,452900,2,0,2,New,1,135,5/26/2020,457900,Eastern
+1286,Other,Eastown,459900,2,0,2,New,1,108,9/11/2020,459900,Eastern
+1287,Other,Eastown,449900,2,0,2,mint,1,43,9/21/2020,449900,Eastern
+1288,Other,Eastown,452900,2,0,2,,1,32,9/21/2020,457900,Eastern
+1289,Other,Eastown,449900,2,0,2,mint,1,60,11/12/2020,449900,Eastern
+1290,Garden Apartment,Eastown,457900,2,0,2,New,1,78,11/15/2020,477900,Eastern
+1291,Garden Apartment,Eastown,477900,2,0,2,New,1,214,11/15/2020,477900,Eastern
+1294,Other,Eastown,449900,2,0,2,Mint,1,1,1/13/2021,449900,Eastern
+1295,Other,Eastown,457900,2,0,2,,1,1,1/13/2021,449900,Eastern
+1296,Other,Eastown,457900,2,0,2,,1,1,1/13/2021,457900,Eastern
+1297,Other,Eastown,469900,2,0,2,mint,1,65,1/15/2021,469900,Eastern
+1298,Garden Apartment,Eastown,457900,2,0,2,New,1,1,1/18/2021,457900,Eastern
+1301,Other,Eastown,447900,2,0,2,,1,130,6/14/2021,494900,Eastern
+1302,Other,Eastown,485070,2,0,2,,1,0,07/06/2021,494900,Eastern
+1303,Other,Eastown,477900,2,0,2,,1,24,6/13/2021,494900,Eastern
+1304,Other,Eastown,441000,2,0,2,New,1,0,5/28/2020,441000,Eastern
+1284,Other,Eastown,437900,2,0,2,New,2,72,3/30/2020,442900,Eastern
+1292,Other,Eastown,453900,2,0,2,New,2,78,11/15/2020,472900,Eastern
+1293,Garden Apartment,Eastown,452900,2,0,2,New,2,45,11/15/2020,452900,Eastern
+1299,Other,Eastown,469900,2,0,2,New,2,30,3/24/2021,469900,Eastern
+1300,Other,Eastown,472900,2,0,2,New,2,6,6/30/2021,494900,Eastern
+1254,Townhouse,Forestville,275000,1,1,1,Beautiful,1,3,07/03/2020,249000,Lisps
+1255,Garden Apartment,Forestville,95000,1,0,1,Mint,1,29,7/20/2020,95000,Lisps
+1256,Other,Forestville,265000,1,1,1,,1,12,7/24/2020,249000,Lisps
+1257,Other,Forestville,245000,1,0,1,Good,1,8,9/28/2020,240000,Lisps
+1261,Garden Apartment,Forestville,265000,1,1,1,Mint,1,13,12/11/2020,260000,Lisps
+1262,Garden Apartment,Forestville,275000,1,1,1,Perfect,1,35,1/20/2021,259000,Lisps
+1266,Other,Forestville,115000,1,0,1,,1,19,7/21/2021,105000,Lisps
+1267,Other,Forestville,210000,1,0,1,,1,29,7/22/2021,199000,Lisps
+1268,Garden Apartment,Forestville,225000,1,0,1,Mint ++,1,50,9/14/2021,210000,Lisps
+1272,Other,Forestville,215000,1,0,1,,1,23,1/22/2022,199999,Lisps
+1277,Garden Apartment,Forestville,225000,1,0,1,,1,14,7/14/2022,220000,Lisps
+1281,Garden Apartment,Forestville,252000,1,0,1,Mint,1,14,10/25/2022,240000,Lisps
+1282,Townhouse,Forestville,292500,1,1,1,Good,1,3,3/10/2023,289000,Lisps
+1253,Garden Apartment,Forestville,189000,1,0,1,Excellent,2,16,6/29/2020,179000,Lisps
+1258,Other,Forestville,187000,1,0,1,Diamond,2,28,10/06/2020,189000,Lisps
+1259,Garden Apartment,Forestville,185000,1,0,1,Mint,2,59,10/11/2020,185000,Lisps
+1260,Other,Forestville,205000,1,0,1,diamond,2,9,11/14/2020,195000,Lisps
+1263,Other,Forestville,190000,1,0,1,,2,2,02/05/2021,185000,Lisps
+1264,Garden Apartment,Forestville,199000,1,0,1,MINT,2,20,5/20/2021,199000,Lisps
+1265,Garden Apartment,Forestville,195000,1,0,1,Godd,2,17,07/02/2021,195000,Lisps
+1269,Garden Apartment,Forestville,210000,1,0,1,Mint,2,11,10/25/2021,199000,Lisps
+1270,Townhouse,Forestville,275000,1,1,1,Good,2,30,11/17/2021,279000,Lisps
+1271,Garden Apartment,Forestville,215000,1,0,1,Excellent,2,20,11/30/2021,215000,Lisps
+1273,Garden Apartment,Forestville,219000,1,0,1,,2,20,2/17/2022,219000,Lisps
+1274,Garden Apartment,Forestville,245000,1,0,1,Mint,2,21,5/11/2022,239999,Lisps
+1275,Garden Apartment,Forestville,230000,1,0,1,Mint,2,11,06/06/2022,239000,Lisps
+1276,Garden Apartment,Forestville,130000,1,0,1,,2,4,6/21/2022,110000,Lisps
+1278,Garden Apartment,Forestville,250000,1,0,1,Mint,2,16,7/19/2022,245000,Lisps
+1279,Garden Apartment,Forestville,243500,1,0,1,Mint,2,8,7/21/2022,240000,Lisps
+1280,Townhouse,Forestville,288000,1,1,1,Mint,2,19,9/28/2022,299000,Lisps
+1356,Other,Glentrees,255000,1,1,1,Mint,1,7,9/15/2020,249900,Lisps
+1357,Townhouse,Glentrees,265000,1,1,1,,1,19,10/02/2020,250000,Lisps
+1359,Co-Op,Glentrees,90000,1,0,1,,1,13,12/01/2020,79900,Lisps
+1361,Garden Apartment,Glentrees,196000,1,0,1,Mint+,1,82,4/30/2021,199000,Lisps
+1365,Other,Glentrees,240000,1,0,1,Avg,1,5,3/11/2022,239000,Lisps
+1366,Other,Glentrees,187000,1,0,1,Mint++,1,26,05/01/2020,182000,Lisps
+1367,Co-Op,Glentrees,175000,1,0,1,EXC ++,1,23,2/10/2020,185000,Lisps
+1358,Garden Apartment,Glentrees,195000,1,0,1,Excellent,2,16,10/02/2020,189000,Lisps
+1360,Other,Glentrees,196000,1,0,1,,2,95,2/10/2021,188500,Lisps
+1362,Other,Glentrees,230000,1,0,1,Excellent,2,4,6/21/2021,199000,Lisps
+1363,Garden Apartment,Glentrees,215000,1,0,1,Excellent+,2,14,12/17/2021,215000,Lisps
+1364,Garden Apartment,Glentrees,205000,1,0,1,Good,2,9,1/19/2022,200000,Lisps
+1116,Townhouse,Golddream,350000,1,1,1,,1,22,12/08/2022,355000,Coral
+1117,Townhouse,Golddream,325000,1,1,1,Mint,1,7,10/06/2020,325000,Coral
+1118,Townhouse,Golddream,340000,1,1,1,Excellent,1,29,12/22/2020,324999,Coral
+1119,Townhouse,Golddream,347500,2,1,2,Mint,1,17,03/04/2021,319990,Coral
+1120,Other,Golddream,349000,1,1,1,Mint,1,125,06/03/2021,349000,Coral
+1121,Townhouse,Golddream,335000,1,1,1,,1,22,08/05/2021,339000,Coral
+1123,Townhouse,Golddream,220000,1,1,1,Fair,1,84,5/22/2020,234900,Coral
+1114,Townhouse,Golddream,355000,1,1,1,Diamond,2,21,1/14/2022,379000,Coral
+1115,Townhouse,Golddream,370500,1,1,1,,2,153,10/05/2022,375000,Coral
+1122,Townhouse,Golddream,355000,1,1,1,Diamond,2,29,10/18/2021,369000,Coral
+641,Other,Greentown,225000,2,0,2,Excellent,0,22,2/20/2023,225000,Affected
+541,Other,Greentown,55000,2,0,2,,1,238,2/10/2020,59900,Affected
+542,Condo,Greentown,175000,2,0,2,Diamond,1,113,2/24/2020,175000,Affected
+543,Other,Greentown,165000,2,0,2,,1,38,07/06/2020,152000,Affected
+544,Other,Greentown,115500,2,0,2,,1,37,07/08/2020,112000,Affected
+545,Other,Greentown,155000,2,0,2,Diamond,1,63,7/27/2020,149999,Affected
+546,Other,Greentown,60000,1,0,1,,1,46,08/01/2020,59999,Affected
+547,Other,Greentown,160000,2,0,2,,1,-13,08/09/2020,169000,Affected
+548,Other,Greentown,84000,1,1,1,Excellent,1,40,8/25/2020,89900,Affected
+549,Other,Greentown,174000,2,0,2,Mint,1,26,8/26/2020,178000,Affected
+550,Other,Greentown,64900,1,0,1,Excellent,1,46,9/21/2020,64900,Affected
+551,Other,Greentown,90000,1,0,1,mint,1,39,10/02/2020,99000,Affected
+552,Other,Greentown,110000,2,0,2,Mint++,1,25,10/22/2020,110000,Affected
+553,Other,Greentown,100000,2,0,2,Excellent,1,36,11/02/2020,99000,Affected
+554,Other,Greentown,76000,1,0,1,,1,97,11/04/2020,79000,Affected
+555,Other,Greentown,153000,2,0,2,,1,43,11/11/2020,159000,Affected
+556,Other,Greentown,147000,2,0,2,Diamond,1,100,11/14/2020,149999,Affected
+557,Townhouse,Greentown,77500,2,0,2,,1,15,11/16/2020,80000,Affected
+558,Other,Greentown,169000,2,0,2,Diamond+,1,21,11/17/2020,169000,Affected
+559,Other,Greentown,140000,2,0,2,Mint,1,23,11/17/2020,139996,Affected
+560,Other,Greentown,119000,2,0,2,Excellent,1,357,05/07/2020,119000,Affected
+561,Other,Greentown,154000,2,0,2,Mint,1,92,12/02/2020,159900,Affected
+562,Other,Greentown,49000,1,0,1,Very Good,1,60,12/21/2020,62500,Affected
+563,Townhouse,Greentown,160000,2,0,2,Mint ++,1,104,01/07/2021,147000,Affected
+564,Other,Greentown,155000,2,0,2,,1,27,1/15/2021,150000,Affected
+565,Other,Greentown,45000,1,0,1,,1,233,1/26/2021,49900,Affected
+566,Other,Greentown,172500,2,0,2,Excellent,1,61,02/04/2021,172500,Affected
+567,Other,Greentown,117500,2,0,2,Excellent,1,38,02/04/2021,119000,Affected
+568,Other,Greentown,90000,2,0,2,Very good,1,55,03/01/2021,130000,Affected
+569,Other,Greentown,75000,2,0,2,Excellent,1,105,3/15/2021,74900,Affected
+570,Other,Greentown,95000,2,0,2,Excellent,1,24,3/22/2021,99900,Affected
+571,Other,Greentown,155000,2,0,2,MINT,1,31,3/26/2021,160000,Affected
+572,Other,Greentown,157000,2,0,2,Excellent,1,28,04/05/2021,149900,Affected
+573,Other,Greentown,126500,1,0,1,Mint,1,44,4/27/2021,128000,Affected
+574,Other,Greentown,110000,1,1,1,Mint,1,50,4/27/2021,110000,Affected
+575,Other,Greentown,160000,2,0,2,Mint,1,33,5/27/2021,149900,Affected
+576,Other,Greentown,164900,2,0,2,Excellent,1,37,06/09/2021,164900,Affected
+577,Other,Greentown,155000,2,0,2,,1,25,6/16/2021,149000,Affected
+578,Other,Greentown,130000,2,0,2,Excellent,1,145,6/25/2021,139900,Affected
+579,Other,Greentown,119000,2,0,2,,1,13,7/13/2021,89000,Affected
+580,Other,Greentown,169000,2,0,2,Excellent,1,12,7/25/2021,169000,Affected
+581,Townhouse,Greentown,200000,2,0,2,Excellent,1,28,7/26/2021,185000,Affected
+582,Other,Greentown,155900,2,0,2,Mint,1,149,06/08/2021,157990,Affected
+583,Other,Greentown,189000,2,0,2,Diamond,1,36,08/05/2021,189000,Affected
+584,Other,Greentown,118000,1,0,1,MINT,1,37,8/12/2021,129000,Affected
+585,Other,Greentown,91000,2,0,2,excellent,1,27,8/24/2021,85000,Affected
+586,Other,Greentown,172000,2,0,2,Very Good,1,44,9/26/2021,172000,Affected
+587,Other,Greentown,196100,2,0,2,Mint+++,1,32,10/01/2021,184900,Affected
+588,Other,Greentown,150000,2,0,2,,1,3,10/15/2021,149500,Affected
+589,Other,Greentown,172000,2,0,2,Very Good,1,116,10/18/2021,172000,Affected
+590,Other,Greentown,195000,2,0,2,Excellent,1,100,7/25/2021,195000,Affected
+591,Other,Greentown,109000,1,0,1,,1,34,11/04/2021,109000,Affected
+592,Other,Greentown,130000,1,0,1,,1,91,11/13/2021,130000,Affected
+593,Other,Greentown,180000,2,0,2,MINT!,1,33,12/08/2021,179000,Affected
+594,Other,Greentown,181000,2,0,2,Mint,1,171,12/28/2021,174999,Affected
+595,Garden Apartment,Greentown,175000,2,0,2,Diamond,1,22,01/04/2022,175000,Affected
+596,Other,Greentown,184550,2,0,2,Mint,1,50,01/07/2022,184550,Affected
+597,Other,Greentown,110000,1,0,1,Excellent,1,93,1/18/2022,110000,Affected
+598,Other,Greentown,115000,2,0,2,,1,13,2/18/2022,109000,Affected
+599,Other,Greentown,180000,2,0,2,Excellent,1,30,2/28/2022,185000,Affected
+600,Other,Greentown,175000,2,0,2,mint,1,26,03/03/2022,174999,Affected
+601,Other,Greentown,185000,2,0,2,Excellent,1,16,03/04/2022,175000,Affected
+602,Other,Greentown,195000,2,0,2,Diamond,1,46,3/13/2022,195000,Affected
+603,Other,Greentown,122500,2,0,2,Good,1,18,3/13/2022,125000,Affected
+604,Other,Greentown,190000,2,0,2,Mint+,1,104,01/05/2022,189000,Affected
+605,Other,Greentown,60000,1,0,1,,1,29,3/16/2022,55000,Affected
+606,Other,Greentown,210000,1,1,1,Excellent,1,33,3/19/2022,230000,Affected
+607,Other,Greentown,145000,2,0,2,mint,1,34,3/23/2022,145000,Affected
+608,Other,Greentown,197500,2,0,2,Mint++,1,30,3/25/2022,200000,Affected
+609,Other,Greentown,145000,1,0,1,Mint,1,59,3/31/2022,145000,Affected
+610,Other,Greentown,95000,2,0,2,Good,1,47,04/08/2022,124999,Affected
+611,Other,Greentown,105000,1,0,1,Excellent,1,28,4/22/2022,119000,Affected
+612,Other,Greentown,189900,2,0,2,Mint,1,40,4/25/2022,189900,Affected
+613,Other,Greentown,200000,2,0,2,Very good,1,6,05/04/2022,195000,Affected
+614,Other,Greentown,200000,2,0,2,mint,1,13,05/07/2022,185000,Affected
+615,Other,Greentown,145000,2,0,2,Very Good,1,33,5/12/2022,145000,Affected
+616,Other,Greentown,114990,1,0,1,Mint ++,1,82,5/28/2022,119900,Affected
+617,Other,Greentown,230000,2,0,2,Excellent,1,32,6/13/2022,230000,Affected
+618,Other,Greentown,95000,2,0,2,Good,1,267,6/15/2022,95000,Affected
+619,Other,Greentown,193500,2,0,2,,1,20,7/14/2022,165000,Affected
+620,Other,Greentown,115000,1,0,1,Excellent,1,14,7/18/2022,115000,Affected
+621,Other,Greentown,80000,1,0,1,,1,36,7/18/2022,80000,Affected
+622,Other,Greentown,200000,2,0,2,Very Good,1,52,7/24/2022,225000,Affected
+623,Other,Greentown,169000,1,1,1,mint,1,95,08/03/2022,169900,Affected
+624,Other,Greentown,111500,1,0,1,,1,130,7/14/2022,125000,Affected
+625,Other,Greentown,183000,2,0,2,Excellent,1,241,8/29/2022,189000,Affected
+626,Other,Greentown,105000,2,0,2,Good,1,15,8/30/2022,95000,Affected
+627,Other,Greentown,218000,2,0,2,Mint,1,116,10/06/2022,235000,Affected
+628,Other,Greentown,90000,2,0,2,,1,133,10/05/2022,104900,Affected
+629,Other,Greentown,80750,1,1,1,,1,95,10/10/2022,80750,Affected
+630,Other,Greentown,218000,2,0,2,Good,1,14,10/12/2022,235000,Affected
+631,Other,Greentown,165000,2,0,2,Excellent,1,182,10/20/2022,169000,Affected
+632,Other,Greentown,175000,2,0,2,Excellent,1,280,10/27/2022,180000,Affected
+633,Other,Greentown,167500,2,0,2,Good,1,204,11/01/2022,176500,Affected
+634,Other,Greentown,90000,2,0,2,,1,50,12/22/2022,85500,Affected
+635,Other,Greentown,173000,2,0,2,MINT,1,202,1/13/2023,184900,Affected
+636,Other,Greentown,190000,2,0,2,Move in,1,114,1/23/2023,211996,Affected
+637,Other,Greentown,190000,2,0,2,Excellent,1,45,1/29/2023,200000,Affected
+638,Other,Greentown,210000,2,0,2,Excellent,1,34,2/10/2023,214500,Affected
+639,Other,Greentown,199000,2,0,2,Very good,1,65,2/11/2023,210000,Affected
+640,Other,Greentown,235000,2,0,2,,1,32,2/16/2023,237500,Affected
+642,Other,Greentown,184500,2,0,2,Mint,1,145,1/10/2023,185900,Affected
+643,Other,Greentown,185000,2,0,2,Mint,1,58,3/29/2023,189999,Affected
+644,Other,Greentown,150000,1,1,1,Very Good,1,38,4/10/2023,160000,Affected
+645,Other,Greentown,122500,2,0,2,,1,11,05/09/2023,140000,Affected
+646,Other,Greentown,190000,2,0,2,Diamond,1,38,5/21/2023,164900,Affected
+647,Other,Greentown,226000,2,0,2,diamond,1,7,06/01/2023,225999,Affected
+649,Condo,Greentown,84900,1,1,1,Excellent,1,50,01/05/2020,84900,Affected
+650,Condo,Greentown,85000,2,0,2,Good,1,22,01/08/2020,73000,Affected
+651,Condo,Greentown,55000,2,0,2,Fair,1,92,2/12/2020,60000,Affected
+652,Other,Greentown,90000,1,0,1,Mint,1,100,03/09/2020,95000,Affected
+653,Other,Greentown,80000,2,0,2,Excellent,1,149,3/10/2020,82500,Affected
+654,Other,Greentown,54000,2,0,2,Good,1,134,03/03/2020,69999,Affected
+655,Other,Greentown,63000,1,0,1,Mint,1,27,4/18/2020,68000,Affected
+656,Other,Greentown,172000,2,0,2,Diamond,1,73,5/19/2020,174500,Affected
+657,Other,Greentown,61000,1,0,1,Excellent,1,18,6/18/2020,69900,Affected
+658,Other,Greentown,105000,2,0,2,Excellent,1,26,6/25/2020,114900,Affected
+648,Other,Greentown,225000,2,0,2,Mint,2,26,07/05/2023,225000,Affected
+659,Condo,Hamptown,305000,2,0,2,Mint,1,168,1/23/2020,305000,Affected
+660,Other,Hamptown,325000,2,0,2,Mint,1,46,8/20/2020,319990,Affected
+662,Townhouse,Hamptown,330500,2,0,2,Diamond,1,10,1/22/2021,325000,Affected
+663,Other,Hamptown,331000,2,0,2,good,1,20,05/06/2021,299999,Affected
+665,Other,Hamptown,350000,2,0,2,Excellent,1,16,11/11/2021,339900,Affected
+670,Other,Hamptown,315000,2,0,2,Mint,1,101,04/05/2020,319900,Affected
+661,Other,Hamptown,319000,2,0,2,Diamond,2,25,12/04/2020,319000,Affected
+664,Other,Hamptown,327500,2,0,2,excellent,2,20,8/14/2021,330000,Affected
+666,Garden Apartment,Hamptown,370000,2,0,2,Diamond ++,2,16,11/15/2021,368000,Affected
+667,Townhouse,Hamptown,350000,2,0,2,Mint,2,30,12/27/2021,350000,Affected
+668,Garden Apartment,Hamptown,390000,2,0,2,Excellent,2,19,3/31/2023,379000,Affected
+669,Other,Hamptown,396000,2,0,2,,2,17,5/20/2023,395000,Affected
+678,Townhouse,Hershare,459999,1,1,1,Mint,0,38,4/20/2023,449000,Eastern
+671,Other,Hershare,335000,1,1,1,,1,36,5/28/2020,329999,Eastern
+672,Townhouse,Hershare,400000,1,1,1,,1,30,9/23/2020,389000,Eastern
+673,Townhouse,Hershare,400000,1,1,1,,1,16,12/23/2020,389000,Eastern
+674,Townhouse,Hershare,421000,1,1,1,Mint,1,26,4/14/2021,415000,Eastern
+675,Townhouse,Hershare,467000,1,1,1,Mint+,1,54,9/30/2021,449000,Eastern
+676,Townhouse,Hershare,465000,1,1,1,Excellent,1,20,06/08/2022,459000,Eastern
+677,Townhouse,Hershare,455000,1,1,1,Excellent,1,33,6/19/2022,449999,Eastern
+1077,Townhouse,Jaggedtown,60000,1,0,1,,1,39,05/04/2020,45000,Craggy
+1078,Garden Apartment,Jaggedtown,68000,1,0,1,,1,13,06/05/2020,69500,Craggy
+1079,Other,Jaggedtown,89000,1,0,1,EXCELLENT,1,12,10/21/2020,85000,Craggy
+1080,Other,Jaggedtown,85000,1,0,1,Mint,1,17,11/15/2020,80000,Craggy
+1082,Garden Apartment,Jaggedtown,85000,1,0,1,,1,18,1/18/2021,77000,Craggy
+1085,Garden Apartment,Jaggedtown,118000,1,0,1,Very Good,1,133,4/14/2021,119850,Craggy
+1086,Garden Apartment,Jaggedtown,146000,1,0,1,,1,18,4/30/2021,139000,Craggy
+1089,Other,Jaggedtown,117000,1,0,1,Mint+,1,143,10/04/2021,124996,Craggy
+1090,Garden Apartment,Jaggedtown,125000,1,0,1,Mint,1,175,10/03/2021,129900,Craggy
+1092,Garden Apartment,Jaggedtown,118000,1,0,1,Mint,1,35,12/01/2021,124990,Craggy
+1093,Garden Apartment,Jaggedtown,115000,1,0,1,,1,26,12/17/2021,99999,Craggy
+1096,Garden Apartment,Jaggedtown,135000,1,0,1,Mint,1,9,02/07/2022,124990,Craggy
+1097,Garden Apartment,Jaggedtown,200000,1,0,1,Diamond,1,352,05/02/2022,199999,Craggy
+1102,Garden Apartment,Jaggedtown,175000,1,0,1,Diamond,1,88,1/26/2023,174850,Craggy
+1103,Garden Apartment,Jaggedtown,143000,1,0,1,Excellent,1,13,3/20/2023,139000,Craggy
+1106,Garden Apartment,Jaggedtown,125000,1,0,1,,1,11,3/31/2023,124999,Craggy
+1107,Garden Apartment,Jaggedtown,156000,1,0,1,,1,78,4/18/2023,154999,Craggy
+1109,Garden Apartment,Jaggedtown,166000,1,0,1,,1,28,06/02/2023,159850,Craggy
+1113,Co-Op,Jaggedtown,72000,1,0,1,,1,20,2/17/2020,69900,Craggy
+1075,Co-Op,Jaggedtown,75000,1,0,1,,2,309,1/10/2020,78000,Craggy
+1076,Co-Op,Jaggedtown,79000,1,0,1,Mint,2,144,1/30/2020,79000,Craggy
+1081,Other,Jaggedtown,92000,1,0,1,,2,14,12/08/2020,85000,Craggy
+1083,Other,Jaggedtown,76000,1,0,1,Excellent,2,44,2/21/2021,75000,Craggy
+1084,Other,Jaggedtown,84000,1,0,1,Excellent,2,19,03/08/2021,79000,Craggy
+1087,Other,Jaggedtown,104900,1,0,1,,2,160,6/23/2021,104900,Craggy
+1088,Garden Apartment,Jaggedtown,130000,1,0,1,Mint,2,21,8/10/2021,119000,Craggy
+1091,Garden Apartment,Jaggedtown,127700,1,0,1,Excellent,2,17,10/16/2021,127700,Craggy
+1094,Other,Jaggedtown,140000,1,0,1,Mint+++,2,93,1/18/2022,139996,Craggy
+1095,Garden Apartment,Jaggedtown,135000,1,0,1,,2,36,02/07/2022,124900,Craggy
+1098,Garden Apartment,Jaggedtown,145000,1,0,1,Excellent,2,34,10/22/2022,149000,Craggy
+1099,Garden Apartment,Jaggedtown,140000,1,0,1,Mint,2,17,11/04/2022,139999,Craggy
+1100,Garden Apartment,Jaggedtown,135000,1,0,1,,2,20,11/07/2022,129999,Craggy
+1101,Garden Apartment,Jaggedtown,135000,1,0,1,Mint ++,2,24,1/24/2023,139900,Craggy
+1104,Garden Apartment,Jaggedtown,122000,1,0,1,,2,56,3/21/2023,119000,Craggy
+1105,Garden Apartment,Jaggedtown,155000,1,0,1,Excellent,2,41,3/24/2023,139999,Craggy
+1108,Garden Apartment,Jaggedtown,127000,1,0,1,,2,25,5/15/2023,124900,Craggy
+1110,Garden Apartment,Jaggedtown,165000,1,0,1,,2,20,07/05/2023,139900,Craggy
+1111,Garden Apartment,Jaggedtown,117000,1,0,1,,2,20,8/25/2022,119975,Craggy
+1112,Co-Op,Jaggedtown,70000,1,0,1,,2,142,02/03/2020,73500,Craggy
+747,Townhouse,Landings,475000,3,0,3,,0,60,5/11/2022,469999,Middletown
+748,Townhouse,Landings,488000,3,0,3,Mint+++,0,83,6/17/2022,488000,Middletown
+717,Townhouse,Landings,437000,3,0,3,Mint,1,132,6/17/2020,439900,Middletown
+718,Townhouse,Landings,393000,2,1,2,Mint,1,91,07/03/2020,399999,Middletown
+720,Other,Landings,310000,2,0,2,Mint,1,31,7/31/2020,299999,Middletown
+722,Townhouse,Landings,415000,3,0,3,Mint,1,173,08/05/2020,415000,Middletown
+723,Other,Landings,320000,2,0,2,,1,25,08/01/2020,315000,Middletown
+724,Townhouse,Landings,400000,2,1,2,Mint,1,57,08/07/2020,399000,Middletown
+725,Townhouse,Landings,420000,3,0,3,Mint,1,26,8/18/2020,420000,Middletown
+726,Other,Landings,329000,1,1,1,,1,22,9/19/2020,315000,Middletown
+727,Other,Landings,320000,2,0,2,Mint,1,20,9/30/2020,309999,Middletown
+728,Townhouse,Landings,415000,2,1,2,Diamond,1,19,12/10/2020,409999,Middletown
+729,Townhouse,Landings,430000,3,0,3,Excellent,1,27,01/09/2021,439000,Middletown
+731,Townhouse,Landings,349000,1,1,1,Excellent,1,23,04/08/2021,349000,Middletown
+732,Other,Landings,355000,2,0,2,Mint,1,38,4/16/2021,349000,Middletown
+733,Townhouse,Landings,455000,2,1,2,Mint,1,22,06/02/2021,425000,Middletown
+734,Townhouse,Landings,447000,3,0,3,,1,22,6/15/2021,435000,Middletown
+736,Other,Landings,339000,2,0,2,mint,1,7,07/08/2021,339999,Middletown
+738,Other,Landings,340000,1,1,1,Mint,1,110,8/18/2021,345000,Middletown
+739,Townhouse,Landings,470000,3,0,3,Mint,1,12,10/09/2021,469999,Middletown
+740,Townhouse,Landings,465000,2,1,2,Diamond,1,46,10/11/2021,489000,Middletown
+741,Other,Landings,345000,2,0,2,Mint,1,25,10/18/2021,349900,Middletown
+742,Other,Landings,370000,1,1,1,Mint,1,14,12/28/2021,363999,Middletown
+744,Other,Landings,355000,2,0,2,Good,1,20,02/08/2022,349999,Middletown
+746,Townhouse,Landings,490000,2,1,2,Mint,1,15,3/29/2022,479999,Middletown
+750,Townhouse,Landings,370000,2,0,2,mint+++,1,36,9/28/2022,369999,Middletown
+751,Other,Landings,380000,1,1,1,,1,31,11/06/2022,349990,Middletown
+754,Condo,Landings,395000,2,1,2,Mint,1,62,02/03/2020,405000,Middletown
+755,Condo,Landings,393500,2,1,2,Mint,1,16,4/29/2020,409000,Middletown
+719,Garden Apartment,Landings,315000,2,0,2,Diamond,2,17,7/14/2020,309000,Middletown
+721,Other,Landings,295000,1,1,1,Mint,2,18,7/31/2020,300000,Middletown
+730,Townhouse,Landings,349000,1,1,1,Mint,2,18,3/12/2021,349000,Middletown
+735,Other,Landings,355000,2,0,2,Mint,2,47,07/01/2021,359000,Middletown
+737,Other,Landings,365000,2,0,2,Excellent,2,11,8/14/2021,345000,Middletown
+743,Other,Landings,375000,2,0,2,DIAMOND,2,9,01/06/2022,365000,Middletown
+745,Garden Apartment,Landings,350000,2,0,2,Diamond,2,8,03/04/2022,349999,Middletown
+749,Other,Landings,395000,2,0,2,,2,35,8/26/2022,375000,Middletown
+752,Townhouse,Landings,385000,2,0,2,,2,12,12/02/2022,385000,Middletown
+753,Townhouse,Landings,355000,2,0,2,Mint++,2,13,01/03/2023,349000,Middletown
+16,Townhouse,Laurel Vista,175000,1,0,1,,1,78,11/11/2020,199000,Eastern
+18,Garden Apartment,Laurel Vista,400000,2,0,2,Excellent,1,48,2/25/2022,390000,Eastern
+19,Other,Laurel Vista,240000,1,0,1,Mint,1,18,5/30/2022,219000,Eastern
+20,Garden Apartment,Laurel Vista,363000,2,0,2,Excellent,1,54,07/02/2022,375000,Eastern
+22,Garden Apartment,Laurel Vista,255000,1,0,1,,1,47,05/04/2023,249000,Eastern
+23,Garden Apartment,Laurel Vista,250000,1,0,1,,1,6,6/15/2023,240000,Eastern
+14,Other,Laurel Vista,290000,2,0,2,,2,96,7/24/2020,325000,Eastern
+15,Garden Apartment,Laurel Vista,175000,1,0,1,Excellent,2,35,8/17/2020,180000,Eastern
+21,Other,Laurel Vista,315000,2,0,2,Excellent,2,48,01/05/2023,349000,Eastern
+17,Garden Apartment,Laurell Vsta,190000,1,0,1,Excellent+,2,39,10/08/2021,225000,Eastern
+240,Townhouse,Makerstown,365000,1,1,1,,0,14,05/09/2022,345000,Affected
+235,Townhouse,Makerstown,286500,1,1,1,Mint++,1,15,9/22/2020,299996,Affected
+236,Townhouse,Makerstown,320000,1,1,1,,1,18,04/01/2021,305000,Affected
+238,Other,Makerstown,335000,1,1,1,Good,1,41,11/02/2021,349999,Affected
+239,Townhouse,Makerstown,350000,1,1,1,mint,1,7,03/04/2022,335000,Affected
+241,Townhouse,Makerstown,359990,1,1,1,excellent,1,90,7/23/2022,359990,Affected
+242,Townhouse,Makerstown,375000,1,1,1,mint,1,23,12/13/2022,379000,Affected
+243,Townhouse,Makerstown,389000,1,1,1,Diamond,1,11,1/15/2023,379000,Affected
+244,Townhouse,Makerstown,391000,1,1,1,Diamond,1,29,5/25/2023,399500,Affected
+237,Townhouse,Makerstown,320000,1,1,1,diamond,2,7,5/25/2021,319999,Affected
+246,Condo,Makerstowne,273000,1,1,1,Mint,1,44,2/19/2020,279900,Affected
+247,Other,Makerstsown,285000,2,0,2,,2,8,6/16/2020,285000,Affected
+245,Townhouse,Makrstown,345000,1,1,1,Excellent,1,18,7/13/2023,339000,Affected
+1246,Other,Mapletown,479000,2,0,2,,1,19,3/24/2023,479000,Coral
+1247,Other,Mapletown,480000,2,0,2,Mint,1,19,6/22/2023,479000,Coral
+1248,Other,Mapletown,435000,3,0,3,MINT++,1,34,01/08/2021,435080,Coral
+1249,Townhouse,Mapletown,439999,2,0,2,Mint +++,1,12,3/17/2021,439999,Coral
+1250,Other,Mapletown,430000,2,0,2,Mint,1,29,3/22/2021,424990,Coral
+1251,Other,Mapletown,415000,2,0,2,,1,37,4/10/2021,425000,Coral
+1252,See Remarks,Mapletown,435000,2,0,2,,1,64,10/12/2021,449000,Coral
+1162,Townhouse,Oxford,445000,2,1,2,Diamod,0,19,4/21/2023,438000,Coral
+1208,Townhouse,Oxford,360000,2,0,2,great,0,45,6/23/2021,353000,Coral
+1124,Townhouse,Oxford,417000,2,0,2,Mint ++,1,13,1/11/2022,389999,Coral
+1125,Townhouse,Oxford,330000,1,1,1,excellent,1,7,1/26/2022,325000,Coral
+1126,Townhouse,Oxford,375000,2,1,2,,1,18,02/01/2022,349999,Coral
+1127,Townhouse,Oxford,410000,2,0,2,Diamond,1,13,2/11/2022,389000,Coral
+1129,Other,Oxford,219000,1,0,1,Mint,1,49,3/17/2022,219000,Coral
+1130,Townhouse,Oxford,385000,2,0,2,Excellent,1,41,3/28/2022,369999,Coral
+1131,Townhouse,Oxford,390000,2,1,2,Mint,1,6,04/07/2022,379000,Coral
+1132,Other,Oxford,375000,2,0,2,Diamond,1,23,4/12/2022,369990,Coral
+1133,Townhouse,Oxford,352500,2,0,2,,1,186,4/22/2022,369000,Coral
+1134,Townhouse,Oxford,435000,2,0,2,Excellent,1,16,4/29/2022,429000,Coral
+1135,Other,Oxford,367500,2,0,2,Mint,1,74,05/04/2022,379000,Coral
+1136,Townhouse,Oxford,420000,1,1,1,Diamond,1,9,5/18/2022,414900,Coral
+1137,Townhouse,Oxford,425000,2,0,2,,1,14,06/02/2022,379000,Coral
+1138,Other,Oxford,239000,1,0,1,,1,21,06/01/2022,239000,Coral
+1139,Other,Oxford,260000,1,0,1,,1,19,06/02/2022,249000,Coral
+1140,Townhouse,Oxford,385000,2,0,2,Excellent,1,19,06/02/2022,369000,Coral
+1141,Other,Oxford,319000,1,0,1,Excellent,1,19,6/16/2022,319000,Coral
+1142,Townhouse,Oxford,424300,2,0,2,Mint+++,1,13,7/29/2022,424996,Coral
+1143,Other,Oxford,325000,1,0,1,,1,26,08/03/2022,320000,Coral
+1144,Other,Oxford,380000,2,0,2,mint,1,37,8/25/2022,379990,Coral
+1145,Townhouse,Oxford,365000,2,1,2,,1,90,09/03/2022,374999,Coral
+1146,Townhouse,Oxford,300000,1,0,1,,1,91,9/14/2022,309000,Coral
+1147,Townhouse,Oxford,375000,1,1,1,,1,33,9/16/2022,375000,Coral
+1148,Garden Apartment,Oxford,395000,2,0,2,Mint++,1,16,9/30/2022,399000,Coral
+1149,Townhouse,Oxford,389990,1,1,1,Mint+++,1,5,12/14/2022,379990,Coral
+1150,Garden Apartment,Oxford,355000,1,0,1,Mint,1,89,11/25/2022,364990,Coral
+1151,Townhouse,Oxford,385000,2,0,2,Excellent,1,17,1/16/2023,369999,Coral
+1153,Other,Oxford,370000,2,0,2,Mint,1,59,1/23/2023,369000,Coral
+1155,Townhouse,Oxford,415000,1,1,1,,1,14,03/09/2023,399999,Coral
+1156,Townhouse,Oxford,318000,1,1,1,Excellent,1,27,3/16/2023,319999,Coral
+1157,Garden Apartment,Oxford,415000,2,0,2,Mint,1,79,1/24/2023,429990,Coral
+1158,Other,Oxford,250000,1,0,1,Excellant,1,12,3/25/2023,254900,Coral
+1159,Other,Oxford,385000,1,1,1,Excellent,1,19,3/29/2023,405000,Coral
+1160,Townhouse,Oxford,440000,2,1,2,MINT ++,1,18,3/31/2023,438000,Coral
+1161,Other,Oxford,352500,1,0,1,Mint,1,30,04/03/2023,345000,Coral
+1163,Other,Oxford,320000,1,0,1,Diamond,1,25,05/05/2023,329000,Coral
+1164,Townhouse,Oxford,435000,2,1,2,Mint++,1,7,5/17/2023,434996,Coral
+1165,Townhouse,Oxford,377000,2,1,2,,1,20,5/25/2023,359999,Coral
+1166,Townhouse,Oxford,422500,1,1,1,,1,19,5/24/2023,409000,Coral
+1168,Other,Oxford,355000,1,0,1,Diamond,1,19,6/21/2023,354900,Coral
+1169,Other,Oxford,424000,2,0,2,Mint ++,1,39,6/26/2023,419000,Coral
+1170,Other,Oxford,305000,1,0,1,excellant,1,26,7/20/2023,295000,Coral
+1171,Condo,Oxford,310000,2,0,2,Mint,1,139,2/10/2020,310000,Coral
+1172,Condo,Oxford,278000,2,1,2,,1,253,2/11/2020,271600,Coral
+1173,Townhouse,Oxford,287000,1,1,1,Exc +,1,180,2/21/2020,279900,Coral
+1174,Townhouse,Oxford,274000,1,1,1,Mint+++,1,58,3/25/2020,275000,Coral
+1175,Townhouse,Oxford,290000,1,1,1,Diamond,1,27,5/29/2020,269999,Coral
+1176,Other,Oxford,315000,1,0,1,DIAMOND,1,36,07/06/2020,325000,Coral
+1177,Townhouse,Oxford,290000,1,1,1,Excellent,1,29,07/09/2020,279999,Coral
+1178,Townhouse,Oxford,329000,2,1,2,excellent,1,16,7/22/2020,329900,Coral
+1179,Townhouse,Oxford,330000,2,0,2,Diamond+++,1,17,8/20/2020,315000,Coral
+1180,Townhouse,Oxford,324450,2,1,2,,1,30,8/26/2020,314990,Coral
+1181,Other,Oxford,305000,2,0,2,,1,12,8/31/2020,325000,Coral
+1182,Other,Oxford,160000,1,0,1,,1,17,9/19/2020,160000,Coral
+1183,Other,Oxford,282000,1,0,1,move in,1,77,10/13/2020,289000,Coral
+1184,Other,Oxford,270000,1,0,1,Mint,1,3,10/25/2020,265000,Coral
+1185,Other,Oxford,280000,2,0,2,Excellent,1,28,10/26/2020,280000,Coral
+1186,Townhouse,Oxford,272000,1,0,1,Mint,1,10,10/31/2020,274999,Coral
+1187,Other,Oxford,289000,1,0,1,DIAMOND,1,16,11/04/2020,289000,Coral
+1188,Townhouse,Oxford,322500,1,1,1,Mint++,1,42,11/09/2020,329000,Coral
+1189,Townhouse,Oxford,285000,1,0,1,,1,26,12/02/2020,289000,Coral
+1190,Townhouse,Oxford,255000,1,0,1,,1,17,01/04/2021,239999,Coral
+1191,Townhouse,Oxford,317000,1,1,1,Excellent,1,18,1/10/2021,299999,Coral
+1193,Townhouse,Oxford,315000,1,0,1,Move In,1,19,1/28/2021,314888,Coral
+1194,Townhouse,Oxford,299250,1,1,1,MINT,1,18,2/13/2021,304900,Coral
+1195,Townhouse,Oxford,205000,2,1,2,Fair,1,4,2/14/2021,169000,Coral
+1196,Garden Apartment,Oxford,250000,1,0,1,Mint++,1,34,2/17/2021,259000,Coral
+1197,Townhouse,Oxford,290000,1,1,1,,1,55,03/04/2021,280000,Coral
+1199,Townhouse,Oxford,320000,1,1,1,Excellent,1,19,04/05/2021,289000,Coral
+1201,Townhouse,Oxford,402500,2,0,2,Diamond++,1,16,4/19/2021,349999,Coral
+1202,Townhouse,Oxford,355000,2,1,2,Diamond,1,9,05/05/2021,349999,Coral
+1203,Townhouse,Oxford,338000,2,0,2,MINT,1,17,5/10/2021,330000,Coral
+1204,Townhouse,Oxford,300000,1,1,1,Mint,1,19,5/26/2021,299999,Coral
+1205,Other,Oxford,320000,1,0,1,Mint,1,13,06/03/2021,309000,Coral
+1206,Townhouse,Oxford,360000,2,0,2,Mint,1,26,6/16/2021,335000,Coral
+1207,Townhouse,Oxford,330000,1,1,1,Mint++,1,14,6/18/2021,299999,Coral
+1209,Other,Oxford,224900,1,0,1,Mint,1,19,08/02/2021,224900,Coral
+1210,Townhouse,Oxford,412250,2,0,2,,1,5,08/05/2021,369999,Coral
+1211,Townhouse,Oxford,425000,2,0,2,MINT,1,11,09/08/2021,355000,Coral
+1212,Townhouse,Oxford,365000,1,1,1,MINT,1,26,9/10/2021,349990,Coral
+1213,Other,Oxford,356000,1,0,1,Excellent,1,31,9/12/2021,320000,Coral
+1214,Other,Oxford,289750,2,0,2,mint,1,35,10/05/2021,305000,Coral
+1215,Other,Oxford,235000,1,0,1,Exc+,1,20,10/06/2021,229990,Coral
+1216,Townhouse,Oxford,384000,2,0,2,Mint,1,23,10/17/2021,375000,Coral
+1217,Townhouse,Oxford,369999,2,1,2,Mint,1,89,10/23/2021,364900,Coral
+1218,Townhouse,Oxford,360000,2,1,2,Mint,1,99,11/03/2021,359900,Coral
+1219,Other,Oxford,335000,2,0,2,Excellent,1,179,11/19/2021,330000,Coral
+1220,Other,Oxford,310000,2,0,2,,1,23,11/30/2021,310000,Coral
+1221,Townhouse,Oxford,365000,2,0,2,diamond +,1,49,12/03/2021,369900,Coral
+1222,Garden Apartment,Oxford,329000,1,0,1,MINT,1,117,12/05/2021,329000,Coral
+1223,,Oxford,264000,1,1,1,Excellent,1,17,1/31/2020,269000,Coral
+1224,Condo,Oxford,269000,2,0,2,,1,20,02/07/2020,279000,Coral
+1225,,Oxford,315000,1,1,1,Excellent,1,25,2/19/2020,314900,Coral
+1226,,Oxford,255000,2,1,2,Excellent+,1,18,2/27/2020,259996,Coral
+1227,Townhouse,Oxford,305114,2,0,2,Diamond,1,21,5/15/2020,305000,Coral
+1167,Townhouse,Oxford,390000,1,1,1,,2,14,5/26/2023,375000,Coral
+1192,Townhouse,Oxford,317000,1,1,1,,2,26,1/13/2021,314990,Coral
+1198,Townhouse,Oxford,357000,2,0,2,Excellent+,2,24,03/09/2021,329000,Coral
+1200,Townhouse,Oxford,315000,1,1,1,,2,7,4/12/2021,299000,Coral
+1154,Townhouse,Oxford,360000,1,1,1,Mint,2,96,12/06/2022,379000,Coral
+1128,Townhouse,Oxford,374999,2,1,2,,2,29,03/07/2022,374999,Coral
+1152,Townhouse,Oxford,370000,1,1,1,,2,20,1/17/2023,379990,Coral
+403,Townhouse,Parliment,535000,2,1,2,Excellent,0,17,02/06/2023,525000,Affected
+303,Mid Rise,Parliment,310000,2,0,2,,1,19,7/14/2020,315500,Middletown
+322,Mid Rise,Parliment,335000,2,0,2,Excellent,1,7,9/10/2021,330000,Middletown
+324,Other,Parliment,355000,2,0,2,MINT,1,27,11/06/2021,349999,Middletown
+326,Other,Parliment,364000,2,0,2,Mint,1,44,11/15/2021,359000,Middletown
+327,Other,Parliment,385000,2,0,2,Mint,1,23,11/24/2021,369000,Middletown
+328,Other,Parliment,400000,2,0,2,,1,16,5/11/2022,379000,Middletown
+329,Garden Apartment,Parliment,400000,2,0,2,Diamond,1,110,06/01/2022,389999,Middletown
+332,Other,Parliment,425000,2,0,2,Diamond,1,17,6/20/2022,439000,Middletown
+345,Mid Rise,Parliment,395000,2,0,2,Mint,1,61,04/07/2023,399000,Middletown
+351,Condo,Parliment,315000,2,0,2,Excellent,1,48,01/03/2020,320000,Middletown
+355,Townhouse,Parliment,370000,2,1,2,Excellent,1,123,06/07/2020,379990,Affected
+356,Townhouse,Parliment,295000,1,1,1,,1,12,6/11/2020,297000,Affected
+357,Townhouse,Parliment,335000,2,0,2,Excellent,1,24,6/14/2020,349900,Affected
+358,Townhouse,Parliment,315000,2,0,2,Exc +,1,31,6/25/2020,320000,Affected
+359,Townhouse,Parliment,305000,1,1,1,excellent,1,10,7/11/2020,297000,Affected
+360,Townhouse,Parliment,339000,1,1,1,Mint+,1,25,7/19/2020,339000,Affected
+361,Townhouse,Parliment,350000,1,1,1,Diamond ++,1,45,7/20/2020,334999,Affected
+362,Other,Parliment,454000,2,1,2,DIAMOND,1,14,7/27/2020,449000,Affected
+363,Other,Parliment,340000,1,1,1,Excellent+,1,26,7/30/2020,329000,Affected
+364,Townhouse,Parliment,334000,1,1,1,Diamond,1,26,08/02/2020,334000,Affected
+365,Townhouse,Parliment,375000,2,0,2,Diamond,1,46,10/15/2020,375000,Affected
+366,Townhouse,Parliment,320000,2,1,2,Excellent,1,21,11/15/2020,309000,Affected
+367,Townhouse,Parliment,349000,1,1,1,Mint+++,1,21,03/08/2021,339000,Affected
+368,Mid Rise,Parliment,364000,1,1,1,excellant,1,6,3/20/2021,359000,Affected
+369,Townhouse,Parliment,470000,3,0,3,Excellent,1,35,3/22/2021,469000,Affected
+370,Other,Parliment,351500,2,0,2,Excellent,1,15,4/27/2021,375000,Affected
+371,Townhouse,Parliment,350000,1,1,1,Excellent,1,9,05/01/2021,339000,Affected
+372,Townhouse,Parliment,479000,2,1,2,Diamond,1,23,5/21/2021,479999,Affected
+373,Townhouse,Parliment,385000,1,1,1,,1,14,5/31/2021,369999,Affected
+374,Townhouse,Parliment,385000,2,0,2,Exc +,1,8,06/08/2021,369900,Affected
+375,Townhouse,Parliment,485000,2,1,2,,1,22,6/21/2021,479900,Affected
+376,Townhouse,Parliment,469000,2,1,2,Excellent,1,13,6/28/2021,474900,Affected
+377,Townhouse,Parliment,370000,1,1,1,Mint,1,15,8/10/2021,375000,Affected
+378,Townhouse,Parliment,380000,1,1,1,Mint++,1,15,8/31/2021,379000,Affected
+379,Townhouse,Parliment,390000,1,1,1,Diamond,1,20,9/12/2021,385000,Affected
+380,Townhouse,Parliment,369000,1,1,1,Mint,1,51,10/10/2021,369000,Affected
+381,Townhouse,Parliment,415000,2,0,2,Mint+,1,13,12/04/2021,399999,Affected
+382,Townhouse,Parliment,519000,3,0,3,Diamond,1,63,12/17/2021,519000,Affected
+383,Townhouse,Parliment,429000,1,1,1,,1,22,1/10/2022,429000,Affected
+384,Townhouse,Parliment,415000,1,1,1,Diamond,1,9,02/09/2022,415000,Affected
+385,Townhouse,Parliment,500000,1,1,1,Mint,1,24,3/23/2022,489000,Affected
+386,Garden Apartment,Parliment,405000,2,0,2,Good,1,22,3/22/2022,375000,Affected
+387,Townhouse,Parliment,475000,2,0,2,excellant,1,23,4/26/2022,449000,Affected
+388,Townhouse,Parliment,446000,1,1,1,Mint,1,41,4/27/2022,409000,Affected
+389,Townhouse,Parliment,449000,2,0,2,diamond,1,22,4/28/2022,449000,Affected
+390,Townhouse,Parliment,445000,2,0,2,Mint,1,26,05/05/2022,424900,Affected
+391,Townhouse,Parliment,418000,1,1,1,,1,51,5/10/2022,424999,Affected
+392,Townhouse,Parliment,400000,1,1,1,Mint,1,22,6/16/2022,389990,Affected
+393,Townhouse,Parliment,415000,2,1,2,Great,1,59,08/06/2022,428999,Affected
+394,Townhouse,Parliment,384000,2,0,2,Mint,1,99,08/07/2022,399000,Affected
+395,Townhouse,Parliment,377000,1,1,1,Mint,1,90,8/25/2022,389000,Affected
+396,Townhouse,Parliment,440000,2,0,2,,1,41,8/29/2022,449000,Affected
+397,Townhouse,Parliment,590000,1,1,1,Diamond ++,1,160,10/07/2022,599000,Affected
+398,Townhouse,Parliment,475000,2,1,2,,1,35,11/04/2022,495000,Affected
+399,Townhouse,Parliment,410000,2,0,2,Mint,1,31,11/06/2022,429000,Affected
+400,Townhouse,Parliment,405000,1,1,1,,1,43,12/05/2022,410000,Affected
+401,Townhouse,Parliment,545000,2,1,2,Diamond,1,13,12/07/2022,529000,Affected
+402,Townhouse,Parliment,475000,2,1,2,EXCELLENT,1,11,1/12/2023,429990,Affected
+404,Townhouse,Parliment,488000,2,0,2,Mint,1,3,2/17/2023,435000,Affected
+405,Other,Parliment,415000,1,1,1,Mint,1,54,03/01/2023,435000,Affected
+406,Other,Parliment,415000,2,0,2,Excellent+,1,34,03/02/2023,435000,Affected
+407,Other,Parliment,450000,2,0,2,Mint,1,5,5/17/2023,439000,Affected
+408,Townhouse,Parliment,430000,1,1,1,Mint,1,2,5/30/2023,419000,Affected
+409,Townhouse,Parliment,465000,2,0,2,,1,9,06/03/2023,419000,Affected
+410,Townhouse,Parliment,429000,2,0,2,Excellent+,1,26,6/30/2023,429000,Affected
+411,Townhouse,Parliment,440000,2,0,2,Excellent,1,12,08/04/2023,439000,Affected
+413,Condo,Parliment,300000,2,0,2,,1,7,1/15/2020,299999,Affected
+416,Townhouse,Parliment,329000,1,1,1,DIAMOND+++,1,22,05/06/2020,329000,Affected
+417,Townhouse,Parliment,325000,1,1,1,,1,11,6/13/2020,329900,Affected
+418,Townhouse,Parliment,309000,1,1,1,Mint,1,26,6/18/2020,309000,Affected
+302,Mid Rise,Parliment,334990,2,0,2,Mint,2,44,6/16/2020,334990,Middletown
+304,Townhouse,Parliment,367000,2,0,2,Diamond,2,139,08/04/2020,346990,Middletown
+305,Mid Rise,Parliment,325000,2,0,2,Mint,2,18,8/22/2020,325000,Middletown
+306,Mid Rise,Parliment,320000,2,0,2,Mint,2,99,9/15/2020,325000,Middletown
+307,Mid Rise,Parliment,350000,2,0,2,Diamond++,2,166,9/18/2020,349000,Middletown
+309,Mid Rise,Parliment,310000,2,0,2,Excellent,2,35,10/21/2020,325000,Middletown
+310,Other,Parliment,320000,2,0,2,Mint,2,12,11/04/2020,320000,Middletown
+311,Townhouse,Parliment,303000,2,0,2,,2,24,01/07/2021,309000,Middletown
+312,Mid Rise,Parliment,335000,2,0,2,Mint,2,53,1/20/2021,335000,Middletown
+313,Other,Parliment,329000,2,0,2,EXCELLENT,2,20,2/13/2021,329900,Middletown
+314,Townhouse,Parliment,387500,2,0,2,Diamond++,2,19,3/17/2021,350000,Middletown
+317,Mid Rise,Parliment,355000,2,0,2,Mint,2,21,7/16/2021,335000,Middletown
+318,Mid Rise,Parliment,360000,2,0,2,,2,21,7/26/2021,350000,Middletown
+319,Mid Rise,Parliment,389000,2,0,2,,2,10,08/03/2021,369000,Middletown
+320,Mid Rise,Parliment,385000,2,0,2,Diamond,2,28,08/05/2021,359000,Middletown
+335,Mid Rise,Parliment,390000,2,0,2,,2,29,9/27/2022,399999,Middletown
+338,Other,Parliment,425000,2,0,2,Diamond++,2,19,10/22/2022,424990,Middletown
+340,Garden Apartment,Parliment,420000,2,0,2,mint,2,16,11/13/2022,419000,Middletown
+342,Townhouse,Parliment,402500,2,0,2,,2,26,1/27/2023,389999,Middletown
+346,Mid Rise,Parliment,406000,2,0,2,,2,20,4/28/2023,399900,Middletown
+347,Other,Parliment,427500,2,0,2,Excellent,2,22,7/27/2023,400000,Middletown
+350,Other,Parliment,320000,2,0,2,mint,2,16,6/24/2020,324990,Middletown
+352,Condo,Parliment,325000,2,0,2,Mint+,2,15,1/14/2020,325000,Middletown
+412,Condo,Parliment,280000,1,1,1,,2,103,1/14/2020,299000,Affected
+414,Condo,Parliment,318000,1,1,1,,2,25,03/01/2020,315000,Affected
+415,Townhouse,Parliment,399000,2,1,2,Mint,2,3,04/06/2020,419000,Affected
+315,Townhouse,Parliment,380000,2,0,2,,2,16,4/20/2021,349990,Middletown
+321,Mid Rise,Parliment,370000,2,0,2,pristine,2,-78,8/12/2021,350000,Middletown
+331,Garden Apartment,Parliment,429000,2,0,2,Mint +,2,81,05/05/2022,429900,Middletown
+334,Other,Parliment,370000,2,0,2,,2,128,9/19/2022,379999,Middletown
+336,Mid Rise,Parliment,410000,2,0,2,Diamond++,2,49,10/13/2022,410000,Middletown
+337,Other,Parliment,380000,2,0,2,Mint +,2,165,10/14/2022,375000,Middletown
+341,Mid Rise,Parliment,365000,2,0,2,Mint,2,15,1/25/2023,365000,Middletown
+343,Mid Rise,Parliment,380000,2,0,2,mlnt++,2,44,2/13/2023,389999,Middletown
+344,Mid Rise,Parliment,415000,2,0,2,,2,74,04/01/2023,419000,Middletown
+348,Garden Apartment,Parliment,420000,2,0,2,,2,25,03/01/2023,399000,Middletown
+353,Condo,Parliment,355000,2,0,2,Mint+++,2,18,2/19/2020,319990,Middletown
+354,Condo,Parliment,305000,2,0,2,Mint,2,37,3/16/2020,315000,Middletown
+308,Other,Parliment,310000,2,0,2,Mint,2,74,10/04/2020,320000,Middletown
+316,Mid Rise,Parliment,345000,2,0,2,,2,70,07/06/2021,350000,Middletown
+325,Other,Parliment,387000,2,0,2,,2,15,11/10/2021,365000,Middletown
+330,High Rise,Parliment,350000,2,0,2,Mint,2,20,06/02/2022,379900,Middletown
+333,Other,Parliment,390000,2,0,2,Diamond,2,88,09/09/2022,389999,Middletown
+339,Other,Parliment,412500,2,0,2,Mint,2,38,10/26/2022,415000,Middletown
+349,Garden Apartment,Parliment,330000,2,0,2,Mint,2,67,04/06/2020,335000,Middletown
+323,Other,Parliment,351000,2,0,2,Excellent,2,29,10/10/2021,359999,Middletown
+420,Other,Peninusula,240000,1,1,1,Excellent,1,35,10/19/2021,235000,Eastern
+422,Other,Peninusula,250000,1,0,1,Mint,1,14,03/01/2022,245000,Eastern
+423,Garden Apartment,Peninusula,250000,1,1,1,,1,37,04/04/2022,249000,Eastern
+425,Garden Apartment,Peninusula,280000,1,1,1,Excellent,1,35,7/14/2022,250000,Eastern
+426,Other,Peninusula,275000,1,1,1,Excellent,1,16,03/07/2023,259000,Eastern
+419,Other,Peninusula,255000,1,1,1,Mint++,2,50,4/19/2021,249999,Eastern
+421,Other,Peninusula,222500,1,1,1,Mint++,2,25,10/28/2021,230000,Eastern
+424,Garden Apartment,Peninusula,240000,1,1,1,Mint,2,35,5/18/2022,249000,Eastern
+1035,Condo,Pilgramstate,190000,1,0,1,excellent,1,233,2/16/2020,184999,Middletown
+1036,Garden Apartment,Pilgramstate,140000,1,0,1,Good,1,86,6/10/2020,150000,Middletown
+1037,Garden Apartment,Pilgramstate,185000,1,0,1,,1,23,7/28/2020,184999,Middletown
+1038,Garden Apartment,Pilgramstate,182000,1,0,1,Excellent,1,13,09/09/2020,199000,Middletown
+1039,Garden Apartment,Pilgramstate,160000,1,0,1,Mint,1,22,10/18/2020,159900,Middletown
+1041,Garden Apartment,Pilgramstate,150000,1,0,1,,1,49,11/11/2020,149999,Middletown
+1042,Garden Apartment,Pilgramstate,140000,1,0,1,,1,58,1/23/2021,139000,Middletown
+1043,Other,Pilgramstate,235000,1,0,1,Mint+,1,83,1/28/2021,239990,Middletown
+1044,Other,Pilgramstate,200000,1,0,1,,1,91,4/14/2021,209000,Middletown
+1047,Other,Pilgramstate,189000,1,0,1,MINT,1,168,06/04/2021,189000,Middletown
+1048,Other,Pilgramstate,217500,1,0,1,,1,56,8/23/2021,219999,Middletown
+1051,Other,Pilgramstate,160000,1,0,1,,1,13,9/24/2021,165000,Middletown
+1052,Other,Pilgramstate,141000,1,0,1,,1,25,9/28/2021,139999,Middletown
+1054,Garden Apartment,Pilgramstate,170000,1,0,1,Excel ++,1,21,11/03/2021,169000,Middletown
+1058,Garden Apartment,Pilgramstate,260000,1,0,1,,1,301,1/13/2022,265000,Middletown
+1059,Garden Apartment,Pilgramstate,190000,1,0,1,excellent,1,88,02/03/2022,178000,Middletown
+1060,Other,Pilgramstate,225000,1,0,1,,1,25,3/17/2022,225000,Middletown
+1062,Other,Pilgramstate,220000,1,0,1,Excellent,1,18,09/03/2022,220000,Middletown
+1064,Other,Pilgramstate,195000,1,0,1,Diamond,1,8,11/15/2022,195000,Middletown
+1065,Other,Pilgramstate,267000,1,0,1,Excellent,1,113,12/07/2022,259900,Middletown
+1066,Garden Apartment,Pilgramstate,231000,1,0,1,Good,1,28,1/27/2023,220000,Middletown
+1068,Other,Pilgramstate,309000,1,0,1,,1,22,02/01/2023,309000,Middletown
+1071,Townhouse,Pilgramstate,197000,1,0,1,Mint,1,8,03/04/2020,209900,Middletown
+1072,Condo,Pilgramstate,450000,2,0,2,Diamond++,1,116,2/28/2020,469990,Lisps
+1040,Garden Apartment,Pilgramstate,220000,1,0,1,,2,310,10/26/2020,228000,Middletown
+1045,Garden Apartment,Pilgramstate,146000,1,0,1,,2,19,4/22/2021,139999,Middletown
+1046,Garden Apartment,Pilgramstate,235000,1,0,1,Excellent,2,18,5/17/2021,228900,Middletown
+1049,Other,Pilgramstate,194000,1,0,1,,2,7,8/27/2021,199000,Middletown
+1050,Garden Apartment,Pilgramstate,220000,1,0,1,Mint,2,19,9/10/2021,219999,Middletown
+1053,Garden Apartment,Pilgramstate,140000,1,0,1,,2,84,10/15/2021,169000,Middletown
+1055,Other,Pilgramstate,195000,1,0,1,,2,31,11/05/2021,189999,Middletown
+1056,Garden Apartment,Pilgramstate,210000,1,0,1,,2,11,11/04/2021,189000,Middletown
+1057,Other,Pilgramstate,220000,1,0,1,Mint,2,45,1/10/2022,219990,Middletown
+1061,Other,Pilgramstate,155000,1,0,1,,2,18,7/16/2022,159475,Middletown
+1063,Other,Pilgramstate,200000,1,0,1,Excellent,2,32,10/06/2022,195000,Middletown
+1067,Garden Apartment,Pilgramstate,220000,1,0,1,Excellent,2,35,1/30/2023,219999,Middletown
+1069,Other,Pilgramstate,295000,1,0,1,,2,117,02/01/2023,309000,Middletown
+1070,Other,Pilgramstate,225000,1,0,1,Mint,2,13,05/04/2023,219990,Middletown
+1073,Townhouse,Pilgramstate,470000,2,0,2,Excellent,2,155,11/04/2020,485000,Lisps
+1074,Other,Pilgramstate,460000,2,0,2,Mint,2,45,04/04/2022,489900,Lisps
+756,Garden Apartment,Provance,185000,1,0,1,Mint +++,1,18,03/09/2022,172500,Coral
+757,Garden Apartment,Provance,198000,1,0,1,Diamond,1,2,3/11/2022,189990,Coral
+758,Townhouse,Provance,180000,1,0,1,Excellent,1,18,3/26/2022,180000,Coral
+760,Garden Apartment,Provance,205000,1,0,1,Mint,1,9,07/05/2022,188000,Coral
+763,Garden Apartment,Provance,192000,1,0,1,Mint,1,29,11/07/2022,199999,Coral
+765,Garden Apartment,Provance,195000,1,0,1,Excellent,1,33,1/25/2023,199000,Coral
+767,Co-Op,Provance,105000,1,0,1,,1,64,1/27/2020,90000,Coral
+770,Other,Provance,105000,1,0,1,,1,31,08/01/2020,109000,Coral
+771,Other,Provance,187000,1,0,1,,1,21,12/30/2020,185000,Coral
+772,Garden Apartment,Provance,180000,1,1,1,,1,18,5/17/2021,149999,Coral
+774,Garden Apartment,Provance,163000,1,0,1,Mint++,1,2,10/30/2021,144990,Coral
+775,Other,Provance,170000,1,0,1,,1,13,12/17/2021,155000,Coral
+776,Co-Op,Provance,121000,1,0,1,Excellent,1,15,1/22/2020,119000,Coral
+759,Garden Apartment,Provance,265000,1,0,1,Diamond,2,52,5/27/2022,249000,Coral
+761,Garden Apartment,Provance,205000,1,0,1,mint++,2,24,7/26/2022,185000,Coral
+762,Garden Apartment,Provance,182500,1,0,1,,2,29,08/04/2022,169000,Coral
+764,Garden Apartment,Provance,199990,1,0,1,,2,27,1/10/2023,199990,Coral
+766,Garden Apartment,Provance,254000,1,0,1,Excellent,2,12,03/09/2023,249000,Coral
+768,Garden Apartment,Provance,117667,1,0,1,,2,33,5/22/2020,117667,Coral
+769,Garden Apartment,Provance,150000,1,0,1,Diamond +,2,30,5/26/2020,139900,Coral
+773,Garden Apartment,Provance,171000,1,0,1,Excellent,2,30,09/07/2021,165000,Coral
+679,Other,Pursuit,436000,2,1,2,mint,0,28,3/17/2022,429000,Coral
+707,Other,Pursuit,350000,2,1,2,,0,25,08/09/2021,349900,Coral
+680,Townhouse,Pursuit,400000,1,1,1,Diamond,1,109,4/25/2022,397500,Coral
+681,Other,Pursuit,395000,2,0,2,excellent,1,69,4/29/2022,399999,Coral
+682,Other,Pursuit,415000,1,1,1,Excellent,1,26,06/02/2022,399000,Coral
+683,Townhouse,Pursuit,385000,2,1,2,,1,23,6/21/2022,379000,Coral
+684,Townhouse,Pursuit,325000,1,1,1,Excellent,1,98,10/13/2022,345000,Coral
+685,Townhouse,Pursuit,475000,2,1,2,DIAMOND,1,9,2/20/2023,469000,Coral
+686,Townhouse,Pursuit,460000,2,1,2,,1,23,03/06/2023,459000,Coral
+687,Other,Pursuit,472000,2,1,2,Mint,1,25,5/10/2023,465000,Coral
+688,Townhouse,Pursuit,470000,2,0,2,EXCELLENT,1,58,3/29/2023,449999,Coral
+689,Townhouse,Pursuit,442000,2,0,2,Mint++,1,20,06/06/2023,420000,Coral
+690,Other,Pursuit,440000,2,0,2,,1,35,6/27/2023,429990,Coral
+691,Other,Pursuit,405000,2,0,2,Mint,1,13,07/06/2023,399000,Coral
+692,Townhouse,Pursuit,375000,1,1,1,mint,1,13,08/03/2023,350000,Coral
+693,Townhouse,Pursuit,263000,1,1,1,Excellent,1,28,6/17/2020,268000,Coral
+694,Townhouse,Pursuit,325000,2,1,2,,1,67,6/18/2020,295900,Coral
+695,Townhouse,Pursuit,329000,2,1,2,Mint,1,18,6/28/2020,329000,Coral
+696,Other,Pursuit,287000,1,1,1,,1,27,9/24/2020,289000,Coral
+697,Townhouse,Pursuit,340000,2,1,2,Diamond,1,133,10/21/2020,325000,Coral
+698,Townhouse,Pursuit,290000,1,1,1,Excellent,1,13,10/30/2020,280000,Coral
+699,Other,Pursuit,345000,2,1,2,Excellent,1,21,1/20/2021,330000,Coral
+700,Townhouse,Pursuit,295000,2,0,2,Mint,1,19,03/04/2021,265000,Coral
+701,Other,Pursuit,330000,2,1,2,Excellent,1,13,06/03/2021,329900,Coral
+702,Townhouse,Pursuit,345000,2,0,2,,1,70,06/07/2021,349900,Coral
+703,Townhouse,Pursuit,250000,1,0,1,,1,28,6/16/2021,259990,Coral
+704,Other,Pursuit,350000,2,0,2,Mint,1,13,7/29/2021,335000,Coral
+705,Other,Pursuit,340000,2,0,2,Excellent,1,14,7/29/2021,329990,Coral
+706,Other,Pursuit,370000,2,1,2,Mint +,1,8,08/03/2021,369999,Coral
+708,Other,Pursuit,310000,2,0,2,Mint,1,18,9/27/2021,289000,Coral
+709,Townhouse,Pursuit,339000,2,0,2,Diamond,1,21,11/12/2021,339000,Coral
+711,Other,Pursuit,350000,2,0,2,,1,17,12/08/2021,350000,Coral
+712,Condo,Pursuit,304000,2,1,2,Mint,1,35,2/12/2020,314999,Coral
+713,Condo,Pursuit,287000,2,1,2,Excellent,1,17,2/14/2020,299000,Coral
+714,Townhouse,Pursuit,275000,1,1,1,Mint,1,23,06/06/2020,289000,Coral
+716,Townhouse,Pursuit,265000,2,0,2,Mint +++,1,9,7/25/2020,265000,Coral
+715,Townhouse,Pursuit,280000,1,1,1,Mint,2,19,6/17/2020,285000,Coral
+710,Townhouse,Pursuit,370000,1,1,1,Mint,2,22,11/28/2021,360000,Coral
+833,Other,Southland,225000,1,0,1,,0,64,03/03/2023,225000,Coral
+779,Garden Apartment,Southland,130000,1,0,1,very good,1,23,1/17/2022,129000,Coral
+780,Other,Southland,170000,1,0,1,,1,100,1/24/2022,170000,Coral
+781,Other,Southland,150000,1,0,1,,1,4,1/31/2022,150000,Coral
+782,Garden Apartment,Southland,199900,1,0,1,Diamond,1,32,2/17/2022,199900,Coral
+783,Garden Apartment,Southland,160000,1,0,1,Diamond ++,1,10,2/26/2022,157999,Coral
+785,Garden Apartment,Southland,110000,1,0,1,As-Is,1,15,3/24/2022,117999,Coral
+788,Garden Apartment,Southland,165000,1,0,1,Excellent,1,22,04/04/2022,165000,Coral
+790,Garden Apartment,Southland,145000,1,0,1,Mint,1,55,4/13/2022,129000,Coral
+795,High Rise,Southland,185000,1,0,1,,1,8,5/14/2022,173000,Coral
+796,Garden Apartment,Southland,225000,1,0,1,,1,21,5/17/2022,169000,Coral
+798,Garden Apartment,Southland,150000,1,0,1,Diamond,1,59,5/27/2022,145000,Coral
+799,Garden Apartment,Southland,139900,1,0,1,Excellent,1,45,5/27/2022,139990,Coral
+800,Garden Apartment,Southland,135000,1,0,1,Good,1,32,5/29/2022,128999,Coral
+804,Other,Southland,163000,1,0,1,Mint,1,18,6/18/2022,159900,Coral
+805,Other,Southland,160000,1,0,1,,1,4,6/27/2022,149999,Coral
+806,Garden Apartment,Southland,172000,1,0,1,,1,34,07/07/2022,179999,Coral
+808,Garden Apartment,Southland,205000,2,0,2,,1,108,7/13/2022,219000,Coral
+813,Garden Apartment,Southland,170000,1,0,1,,1,13,8/24/2022,169999,Coral
+815,Garden Apartment,Southland,185000,1,0,1,,1,75,09/02/2022,189900,Coral
+816,Garden Apartment,Southland,190000,1,0,1,Excellent,1,15,09/06/2022,180000,Coral
+817,Other,Southland,178000,1,0,1,,1,20,09/07/2022,169999,Coral
+819,Garden Apartment,Southland,195000,1,0,1,Mint++,1,13,9/12/2022,179990,Coral
+820,Other,Southland,165000,1,0,1,Mint,1,106,9/25/2022,175000,Coral
+822,Other,Southland,190000,1,0,1,Mint,1,9,10/09/2022,189999,Coral
+823,Garden Apartment,Southland,175000,1,0,1,Mint,1,24,10/17/2022,175000,Coral
+824,Garden Apartment,Southland,191000,1,0,1,Mint,1,10,11/01/2022,189000,Coral
+826,Garden Apartment,Southland,163000,1,0,1,Excellent,1,8,1/12/2023,155000,Coral
+827,Garden Apartment,Southland,130000,1,0,1,excellent,1,37,1/15/2023,145000,Coral
+828,Garden Apartment,Southland,205000,1,0,1,Fair,1,20,1/20/2023,205000,Coral
+830,Garden Apartment,Southland,186500,1,0,1,EXCELLENT,1,34,1/28/2023,174999,Coral
+834,Garden Apartment,Southland,212000,1,0,1,Mint +,1,3,03/05/2023,179000,Coral
+836,Garden Apartment,Southland,204000,1,0,1,Diamond++,1,29,3/27/2023,198000,Coral
+839,Garden Apartment,Southland,160000,1,0,1,Diamond,1,7,4/18/2023,174000,Coral
+841,Garden Apartment,Southland,186000,1,0,1,Mint,1,5,4/24/2023,159000,Coral
+850,Garden Apartment,Southland,194000,1,0,1,,1,36,10/17/2022,195000,Coral
+851,Garden Apartment,Southland,195000,1,0,1,,1,23,12/12/2022,195000,Coral
+852,Garden Apartment,Southland,235000,1,0,1,,1,64,12/12/2022,245000,Coral
+853,Garden Apartment,Southland,195000,1,0,1,,1,25,03/01/2023,195000,Coral
+855,Co-Op,Southland,141000,2,0,2,,1,48,2/18/2020,129999,Coral
+859,Other,Southland,95000,1,0,1,,1,81,5/28/2020,110000,Coral
+860,Other,Southland,115000,1,0,1,Gorgeous,1,12,06/07/2020,105000,Coral
+862,Other,Southland,115000,1,0,1,mint +,1,14,6/11/2020,123000,Coral
+864,Other,Southland,140000,1,0,1,Diamond,1,34,6/23/2020,143900,Coral
+865,Other,Southland,70000,1,0,1,,1,58,6/23/2020,80000,Coral
+866,Other,Southland,119000,1,0,1,,1,68,6/25/2020,119900,Coral
+867,Garden Apartment,Southland,95000,1,0,1,Mint,1,16,07/05/2020,89000,Coral
+871,Other,Southland,132200,1,0,1,Diamond,1,257,07/08/2020,129000,Coral
+874,Other,Southland,101000,1,0,1,Mint,1,187,7/16/2020,106500,Coral
+875,Other,Southland,143000,1,1,1,,1,24,8/14/2020,139999,Coral
+877,Other,Southland,110000,1,0,1,DIAMOND,1,39,8/25/2020,110000,Coral
+878,Townhouse,Southland,120000,1,0,1,,1,87,8/28/2020,124000,Coral
+879,Other,Southland,130000,1,1,1,excellent,1,24,09/01/2020,129990,Coral
+881,Other,Southland,135000,1,0,1,Mint ++,1,32,9/18/2020,131000,Coral
+882,Other,Southland,116000,1,0,1,mint,1,35,9/18/2020,119900,Coral
+883,Other,Southland,94000,1,0,1,good,1,19,9/19/2020,109000,Coral
+884,Other,Southland,107000,1,0,1,Excellent,1,21,9/23/2020,107000,Coral
+885,Other,Southland,119300,1,0,1,,1,91,9/29/2020,129999,Coral
+887,Other,Southland,115000,1,0,1,Diamond++,1,208,10/19/2020,105000,Coral
+888,Other,Southland,116500,1,0,1,,1,16,10/25/2020,110000,Coral
+892,Other,Southland,136000,1,1,1,excellent,1,21,11/10/2020,130000,Coral
+893,Townhouse,Southland,190000,2,0,2,mint,1,226,11/10/2020,189999,Coral
+895,Garden Apartment,Southland,150000,1,0,1,Excellent,1,25,11/16/2020,147150,Coral
+896,Other,Southland,121500,1,0,1,Excellent,1,34,11/25/2020,127500,Coral
+898,Garden Apartment,Southland,155000,1,1,1,,1,23,12/19/2020,139999,Coral
+899,Garden Apartment,Southland,125000,1,0,1,MINT,1,53,12/30/2020,124990,Coral
+901,Garden Apartment,Southland,121000,1,0,1,mint+++,1,10,1/15/2021,119999,Coral
+903,Other,Southland,140000,1,0,1,Excellent,1,7,02/01/2021,134000,Coral
+906,Other,Southland,160000,1,1,1,,1,15,3/10/2021,160000,Coral
+907,Other,Southland,130000,1,0,1,Diamond,1,19,3/11/2021,129900,Coral
+908,Garden Apartment,Southland,98000,1,0,1,Excellent,1,12,3/14/2021,98000,Coral
+909,Other,Southland,114000,1,0,1,Excellent+,1,8,3/17/2021,119900,Coral
+910,Townhouse,Southland,189000,2,0,2,Mint +,1,134,04/05/2021,199900,Coral
+911,Garden Apartment,Southland,115000,1,0,1,mint,1,18,04/08/2021,109000,Coral
+913,Garden Apartment,Southland,135000,1,0,1,Mint,1,24,4/26/2021,118000,Coral
+915,Garden Apartment,Southland,126000,1,0,1,Mint,1,11,4/26/2021,120000,Coral
+917,Other,Southland,125000,1,0,1,Mint,1,4,4/29/2021,125000,Coral
+920,Other,Southland,146000,1,0,1,mint,1,52,5/19/2021,138500,Coral
+921,Garden Apartment,Southland,145000,1,0,1,,1,7,5/26/2021,124898,Coral
+922,Garden Apartment,Southland,135000,1,0,1,Mint,1,15,06/03/2021,125000,Coral
+923,Garden Apartment,Southland,149000,1,0,1,Diamond,1,42,06/07/2021,149000,Coral
+927,Garden Apartment,Southland,140000,1,0,1,Excellent,1,9,6/23/2021,130000,Coral
+928,Mid Rise,Southland,115000,1,0,1,Excellent,1,16,6/22/2021,115000,Coral
+929,Garden Apartment,Southland,155000,1,0,1,Mint,1,20,6/25/2021,149000,Coral
+930,Garden Apartment,Southland,175000,1,1,1,Diamond ++,1,44,6/28/2021,169999,Coral
+933,Garden Apartment,Southland,150000,1,1,1,Diamond,1,2,7/21/2021,150000,Coral
+934,Townhouse,Southland,140000,1,0,1,Mint,1,18,7/22/2021,130000,Coral
+935,Other,Southland,155000,1,0,1,Excellent,1,11,7/24/2021,165000,Coral
+937,Garden Apartment,Southland,152000,1,1,1,,1,22,8/17/2021,149000,Coral
+938,Garden Apartment,Southland,150000,1,0,1,diamond,1,28,8/20/2021,145000,Coral
+941,Garden Apartment,Southland,140000,1,0,1,,1,138,9/14/2021,139999,Coral
+942,Other,Southland,149000,1,0,1,,1,87,9/14/2021,149000,Coral
+943,Other,Southland,135000,1,0,1,,1,19,9/20/2021,130000,Coral
+946,Mid Rise,Southland,133000,1,0,1,Excellent,1,48,11/16/2021,133000,Coral
+948,Garden Apartment,Southland,135000,1,0,1,,1,18,11/29/2021,119999,Coral
+950,Garden Apartment,Southland,187900,1,1,1,,1,42,12/10/2021,187900,Coral
+951,Garden Apartment,Southland,190000,1,1,1,Mint,1,63,12/10/2021,179999,Coral
+952,Garden Apartment,Southland,145000,1,0,1,Mint,1,126,10/13/2021,139900,Coral
+954,Garden Apartment,Southland,135000,1,0,1,,1,78,10/15/2020,127900,Coral
+955,Garden Apartment,Southland,145000,1,0,1,,1,28,3/10/2021,135000,Coral
+956,Garden Apartment,Southland,170000,1,0,1,,1,116,5/17/2021,169000,Coral
+957,Garden Apartment,Southland,160000,1,0,1,,1,23,5/17/2021,149000,Coral
+958,Garden Apartment,Southland,168000,1,0,1,,1,24,8/17/2021,165000,Coral
+960,Garden Apartment,Southland,168000,1,0,1,,1,29,12/14/2021,169900,Coral
+961,Co-Op,Southland,135000,1,0,1,Mint+++,1,7,01/03/2020,134999,Coral
+962,Co-Op,Southland,126990,1,0,1,Mint+,1,25,1/10/2020,126990,Coral
+963,Co-Op,Southland,122000,1,1,1,Excellent,1,39,1/29/2020,130000,Coral
+966,Co-Op,Southland,93000,1,0,1,Mint,1,41,03/06/2020,105000,Coral
+968,Other,Southland,134000,1,0,1,Diamond,1,28,3/24/2020,134996,Coral
+777,Townhouse,Southland,145000,1,0,1,Mint,2,6,01/06/2022,150000,Coral
+778,Other,Southland,183000,1,0,1,Diamond,2,40,01/07/2022,185000,Coral
+784,Garden Apartment,Southland,140000,1,0,1,,2,21,3/24/2022,139999,Coral
+786,Garden Apartment,Southland,189000,1,1,1,Mint +,2,14,3/29/2022,189000,Coral
+787,Garden Apartment,Southland,165000,1,0,1,,2,10,04/02/2022,170000,Coral
+789,Garden Apartment,Southland,130000,1,0,1,,2,17,04/08/2022,124000,Coral
+791,Other,Southland,170000,1,0,1,,2,9,4/26/2022,149999,Coral
+792,Garden Apartment,Southland,165000,1,0,1,,2,55,05/03/2022,150000,Coral
+793,Garden Apartment,Southland,156000,1,0,1,Excellent,2,22,05/04/2022,145000,Coral
+794,Mid Rise,Southland,176000,1,0,1,Excellent,2,9,5/11/2022,150000,Coral
+797,Mid Rise,Southland,178429,1,0,1,Excellent,2,10,5/27/2022,160000,Coral
+801,Garden Apartment,Southland,165000,1,0,1,Excellent,2,11,6/13/2022,159990,Coral
+802,Other,Southland,183000,1,1,1,,2,15,6/16/2022,179000,Coral
+803,Garden Apartment,Southland,140000,1,0,1,Great,2,30,6/14/2022,139999,Coral
+807,Garden Apartment,Southland,150000,1,0,1,,2,18,07/07/2022,149999,Coral
+809,Garden Apartment,Southland,141500,1,0,1,Mint ++,2,35,7/22/2022,139000,Coral
+810,Garden Apartment,Southland,175000,1,0,1,Diamond,2,17,7/25/2022,169000,Coral
+811,Garden Apartment,Southland,155000,1,0,1,,2,24,08/02/2022,175000,Coral
+812,Garden Apartment,Southland,205000,1,1,1,Diamond +,2,130,8/22/2022,219999,Coral
+814,Other,Southland,189000,1,0,1,Mint+++,2,19,8/25/2022,189000,Coral
+818,Mid Rise,Southland,155000,1,0,1,Excellent,2,20,09/09/2022,140000,Coral
+821,Garden Apartment,Southland,220000,1,1,1,Diamond,2,26,10/02/2022,184888,Coral
+825,Co-Op,Southland,170000,1,0,1,EXCELLENT,2,34,12/27/2022,165000,Coral
+829,Garden Apartment,Southland,193000,1,0,1,,2,11,1/25/2023,189000,Coral
+831,Other,Southland,195000,1,0,1,,2,39,02/07/2023,209000,Coral
+832,Garden Apartment,Southland,190000,1,0,1,Diamond +,2,87,2/10/2023,189888,Coral
+835,Garden Apartment,Southland,161000,1,0,1,Good,2,21,03/06/2023,159999,Coral
+837,Other,Southland,196000,1,0,1,Excellent,2,13,04/04/2023,205000,Coral
+838,Garden Apartment,Southland,215000,1,0,1,Diamond,2,91,4/17/2023,215000,Coral
+840,Other,Southland,230000,1,0,1,,2,5,4/21/2023,225000,Coral
+842,Garden Apartment,Southland,190000,1,0,1,Exc+,2,3,5/11/2023,169900,Coral
+843,Garden Apartment,Southland,240000,1,0,1,,2,19,06/03/2023,209999,Coral
+844,Garden Apartment,Southland,190000,1,0,1,Mint +,2,28,6/14/2023,175000,Coral
+845,Garden Apartment,Southland,215000,1,0,1,Diamond,2,8,6/14/2023,199999,Coral
+846,Mid Rise,Southland,193000,1,0,1,Diamond,2,25,6/29/2023,190000,Coral
+847,Mid Rise,Southland,205000,1,1,1,Excellent,2,42,7/11/2023,200000,Coral
+848,Garden Apartment,Southland,207000,1,0,1,Mint,2,20,7/13/2023,207000,Coral
+849,Garden Apartment,Southland,190000,1,0,1,,2,10,04/05/2022,169999,Coral
+854,Garden Apartment,Southland,120000,1,0,1,Superb,2,226,1/28/2020,124000,Coral
+856,Co-Op,Southland,115000,1,0,1,Exel++,2,160,2/18/2020,114990,Coral
+857,Co-Op,Southland,110000,1,0,1,Diamond,2,208,3/16/2020,110000,Coral
+858,Mid Rise,Southland,115000,1,0,1,mint,2,131,5/13/2020,117900,Coral
+861,Other,Southland,120000,1,0,1,,2,251,06/09/2020,119900,Coral
+863,Other,Southland,110000,1,0,1,Excellent,2,26,6/18/2020,110000,Coral
+868,Other,Southland,122000,1,0,1,Mint,2,30,07/06/2020,124900,Coral
+869,Other,Southland,132000,1,0,1,,2,119,07/06/2020,132000,Coral
+870,Garden Apartment,Southland,115000,1,0,1,,2,23,07/07/2020,120000,Coral
+872,Other,Southland,109000,1,0,1,Excellent+,2,36,07/01/2020,109000,Coral
+873,Other,Southland,110000,1,0,1,Excellent,2,50,7/15/2020,110000,Coral
+876,Garden Apartment,Southland,106000,1,0,1,Mint,2,50,8/17/2020,108000,Coral
+880,Other,Southland,130000,1,0,1,,2,23,09/09/2020,135000,Coral
+886,Other,Southland,117000,1,0,1,Excellent,2,22,10/11/2020,112000,Coral
+889,Other,Southland,113000,1,0,1,Diamond,2,18,10/29/2020,109000,Coral
+890,Townhouse,Southland,140000,1,0,1,Excellent,2,23,11/01/2020,135000,Coral
+891,Other,Southland,105000,1,0,1,Mint,2,34,11/06/2020,110000,Coral
+894,Other,Southland,112500,1,0,1,Mint+++,2,24,11/14/2020,119898,Coral
+897,Other,Southland,135000,1,0,1,Diamond,2,23,11/29/2020,125000,Coral
+900,Other,Southland,105000,1,0,1,Excellent,2,20,01/06/2021,99999,Coral
+902,Other,Southland,144000,1,1,1,Mint,2,140,10/14/2020,134900,Coral
+904,Other,Southland,150000,1,0,1,diamond+,2,15,03/01/2021,135000,Coral
+905,Garden Apartment,Southland,135000,1,0,1,,2,11,03/03/2021,129000,Coral
+912,Other,Southland,148000,1,0,1,,2,6,4/21/2021,138500,Coral
+914,Garden Apartment,Southland,133000,1,0,1,Excellent,2,14,4/26/2021,125000,Coral
+916,Other,Southland,130000,1,0,1,Unknown,2,1,4/28/2021,119000,Coral
+918,Garden Apartment,Southland,145000,1,0,1,Mint,2,52,4/30/2021,139999,Coral
+919,Other,Southland,125000,1,0,1,MINT++,2,15,05/01/2021,125000,Coral
+924,Other,Southland,110000,1,0,1,Excellent,2,15,6/14/2021,99900,Coral
+925,Other,Southland,135000,1,0,1,Mint,2,30,6/16/2021,134999,Coral
+926,Mid Rise,Southland,120000,1,0,1,Excellent,2,15,6/17/2021,109000,Coral
+931,Townhouse,Southland,150000,1,0,1,Mint,2,18,7/15/2021,155000,Coral
+932,Mid Rise,Southland,125000,1,0,1,,2,17,7/19/2021,115000,Coral
+936,Co-Op,Southland,150000,1,1,1,,2,162,8/10/2021,154990,Coral
+939,Other,Southland,150000,1,0,1,Diamond,2,14,8/24/2021,139990,Coral
+940,Garden Apartment,Southland,120000,1,0,1,EXCELLENT,2,40,09/03/2021,109900,Coral
+944,Garden Apartment,Southland,140000,1,0,1,Diamond,2,6,10/08/2021,142500,Coral
+945,Garden Apartment,Southland,125000,1,0,1,EXCELLENT,2,18,10/15/2021,120000,Coral
+947,Other,Southland,140000,1,0,1,,2,14,11/22/2021,139999,Coral
+949,Other,Southland,175000,1,0,1,Diamond +,2,14,11/30/2021,165000,Coral
+953,Garden Apartment,Southland,125000,1,0,1,,2,81,6/29/2020,125000,Coral
+959,Garden Apartment,Southland,165000,1,0,1,,2,24,8/17/2021,165000,Coral
+964,Co-Op,Southland,105000,1,0,1,Mint,2,30,02/09/2020,109999,Coral
+965,Co-Op,Southland,113000,1,0,1,Diamond,2,42,2/10/2020,119000,Coral
+967,Co-Op,Southland,112500,1,1,1,,2,52,3/17/2020,119999,Coral
+969,Other,Southland,135000,1,0,1,Mint ++,2,29,5/18/2020,135000,Coral
+970,Other,Southland,85000,1,0,1,Excellent,2,31,6/15/2020,109000,Coral
+531,Garden Apartment,Streamville,220500,1,0,1,mint,1,15,11/01/2020,199999,Eastern
+535,Garden Apartment,Streamville,209000,1,0,1,Mint,1,16,5/19/2021,185000,Eastern
+537,Garden Apartment,Streamville,215000,1,0,1,Good,1,24,8/17/2022,199900,Eastern
+539,Garden Apartment,Streamville,225000,1,0,1,Mint,1,65,9/12/2022,235000,Eastern
+532,Garden Apartment,Streamville,196500,1,0,1,Excellent,2,4,03/02/2021,199900,Eastern
+533,Garden Apartment,Streamville,212000,1,0,1,Excellent,2,55,3/10/2021,215000,Eastern
+534,Other,Streamville,220000,1,0,1,Excellent,2,37,5/16/2021,214990,Eastern
+536,Garden Apartment,Streamville,235000,1,0,1,,2,38,03/07/2022,239999,Eastern
+538,Garden Apartment,Streamville,225000,1,0,1,,2,20,8/18/2022,235000,Eastern
+540,Garden Apartment,Streamville,265000,1,0,1,Diamond,2,21,11/02/2022,249000,Eastern
+248,Condo,University Heights,323500,2,0,2,,1,71,3/12/2020,329000,Middletown
+249,Townhouse,University Heights,399000,3,1,3,Diamond,1,26,11/30/2020,399999,Middletown
+250,Townhouse,University Heights,385000,1,1,1,Mint,1,16,10/25/2021,369000,Middletown
+251,Townhouse,University Heights,370000,1,1,1,Good/dated,1,10,07/06/2023,349000,Middletown
+1305,Other,Windswept,190000,1,0,1,Excellent,1,104,4/15/2020,190000,Middletown
+1306,Other,Windswept,229000,1,0,1,EXCELLENT,1,21,5/21/2020,229000,Middletown
+1307,Other,Windswept,230000,1,0,1,MINT +,1,38,6/26/2020,229900,Middletown
+1308,Garden Apartment,Windswept,180000,1,0,1,,1,42,7/14/2020,185000,Middletown
+1309,Garden Apartment,Windswept,194000,1,0,1,,1,23,8/12/2020,179000,Middletown
+1310,Other,Windswept,203500,1,0,1,,1,185,03/01/2020,209888,Middletown
+1311,Other,Windswept,200000,1,0,1,As is,1,64,09/09/2020,179500,Middletown
+1312,Other,Windswept,183000,1,0,1,,1,93,9/10/2020,185000,Middletown
+1313,Other,Windswept,237500,1,0,1,Mint,1,39,9/30/2020,249990,Middletown
+1314,Townhouse,Windswept,273000,1,1,1,Excellent,1,35,10/17/2020,263500,Middletown
+1315,Townhouse,Windswept,235000,1,0,1,Move In,1,57,11/19/2020,233000,Middletown
+1316,Other,Windswept,225000,1,0,1,,1,190,12/22/2020,232000,Middletown
+1317,Garden Apartment,Windswept,205000,1,0,1,MINT,1,25,01/03/2021,210000,Middletown
+1318,Townhouse,Windswept,287000,1,1,1,Mint++,1,13,2/10/2021,289900,Middletown
+1319,Garden Apartment,Windswept,250000,1,0,1,Diamond,1,9,2/24/2021,239999,Middletown
+1320,Other,Windswept,230000,1,0,1,,1,42,03/07/2021,235000,Middletown
+1321,Mid Rise,Windswept,250000,1,0,1,Mint,1,8,3/15/2021,235000,Middletown
+1322,Townhouse,Windswept,300500,1,1,1,Mint,1,11,04/04/2021,279000,Middletown
+1323,Other,Windswept,335000,1,1,1,Good,1,6,4/14/2021,299999,Middletown
+1324,Townhouse,Windswept,305000,1,1,1,,1,19,4/24/2021,289000,Middletown
+1325,Townhouse,Windswept,310000,1,1,1,Mint ++,1,39,5/26/2021,310000,Middletown
+1326,Garden Apartment,Windswept,225000,1,0,1,Excellent,1,21,06/04/2021,219000,Middletown
+1327,Garden Apartment,Windswept,221000,1,0,1,Diam,1,4,06/08/2021,199000,Middletown
+1328,Townhouse,Windswept,320000,1,1,1,Mint,1,11,6/25/2021,320000,Middletown
+1329,Other,Windswept,267000,1,0,1,Excellent,1,85,8/18/2021,259900,Middletown
+1330,Other,Windswept,269000,1,0,1,Mint ++,1,30,9/30/2021,259990,Middletown
+1331,Townhouse,Windswept,225000,1,0,1,MINT,1,29,10/07/2021,255000,Middletown
+1332,Garden Apartment,Windswept,270000,1,0,1,Diamond++,1,15,10/21/2021,259900,Middletown
+1333,Garden Apartment,Windswept,270000,1,1,1,,1,77,11/04/2021,275000,Middletown
+1335,Other,Windswept,272950,1,0,1,Good,1,191,7/30/2021,250000,Middletown
+1337,Townhouse,Windswept,365000,1,1,1,,1,66,1/13/2022,369900,Middletown
+1338,Garden Apartment,Windswept,275000,1,0,1,,1,24,1/18/2022,269900,Middletown
+1339,Other,Windswept,270000,1,0,1,,1,4,1/21/2022,259000,Middletown
+1340,Townhouse,Windswept,330000,1,1,1,Very Good,1,44,5/18/2022,319900,Middletown
+1342,Other,Windswept,310000,1,1,1,,1,136,6/17/2022,274900,Middletown
+1343,Other,Windswept,270000,1,0,1,,1,19,07/07/2022,259900,Middletown
+1344,Townhouse,Windswept,330000,1,1,1,Diamond,1,62,7/14/2022,299000,Middletown
+1345,Other,Windswept,285000,1,0,1,Diamond,1,33,8/27/2022,269000,Middletown
+1346,Townhouse,Windswept,355000,1,1,1,Diamond++,1,13,10/07/2022,350000,Middletown
+1348,Other,Windswept,275000,1,0,1,Mint,1,21,11/18/2022,273000,Middletown
+1349,Other,Windswept,267500,1,0,1,Excellent,1,46,1/20/2023,257500,Middletown
+1350,Mid Rise,Windswept,325000,1,0,1,Diamond,1,5,4/28/2023,279000,Middletown
+1351,Townhouse,Windswept,254000,1,1,1,Mint,1,26,5/28/2020,249900,Middletown
+1352,Condo,Windswept,159000,1,0,1,Excellent,1,19,01/08/2020,165000,Middletown
+1353,Condo,Windswept,270000,1,1,1,Excellent,1,16,03/04/2020,264990,Middletown
+1354,Condo,Windswept,245000,1,0,1,,1,43,01/08/2020,229900,Middletown
+1355,Condo,Windswept,189000,1,0,1,,1,39,02/07/2020,189000,Middletown
+1336,Other,Windswept,290000,1,0,1,Diamond,2,15,01/03/2022,249999,Middletown
+1341,Other,Windswept,255000,1,0,1,Good,2,43,06/01/2022,255000,Middletown
+1347,Other,Windswept,275000,1,0,1,,2,25,10/10/2022,270000,Middletown
+1334,Townhouse,Windswept,335000,1,1,1,Mint,2,54,11/09/2021,349900,Middletown
+502,Other,Wolfville,350000,2,0,2,Mint++,1,232,5/11/2020,349990,Middletown
+503,Other,Wolfville,346000,2,0,2,munt ++,1,71,06/04/2020,345000,Middletown
+504,Other,Wolfville,318000,2,0,2,New,1,62,7/10/2020,329000,Middletown
+507,Other,Wolfville,365000,2,0,2,Diamond,1,15,11/23/2020,375000,Middletown
+510,Townhouse,Wolfville,395000,2,0,2,Diamond,1,40,4/19/2021,374999,Middletown
+513,Other,Wolfville,388000,2,0,2,Mint,1,25,6/18/2021,395000,Middletown
+514,Townhouse,Wolfville,385000,2,0,2,Mint,1,65,11/20/2021,399000,Middletown
+515,Townhouse,Wolfville,426000,3,0,3,Mint,1,16,02/07/2022,378400,Middletown
+518,Townhouse,Wolfville,420000,2,0,2,,1,15,05/02/2022,399000,Middletown
+520,Other,Wolfville,426000,2,0,2,Diamond,1,13,06/01/2022,439000,Middletown
+523,Garden Apartment,Wolfville,410000,2,0,2,Excellent,1,181,09/08/2022,374999,Middletown
+527,Garden Apartment,Wolfville,435000,2,0,2,Excellent,1,26,3/10/2023,415000,Middletown
+530,Condo,Wolfville,358000,2,0,2,,1,26,2/20/2020,359000,Middletown
+505,Townhouse,Wolfville,330000,2,0,2,excellent,2,61,7/24/2020,330000,Middletown
+506,Other,Wolfville,340000,2,0,2,Mint +,2,54,9/26/2020,349000,Middletown
+508,Other,Wolfville,360000,2,0,2,,2,16,01/09/2021,349990,Middletown
+509,Other,Wolfville,369990,2,0,2,Diamond+++,2,32,2/27/2021,359990,Middletown
+511,Other,Wolfville,385000,2,0,2,Diamond,2,16,5/10/2021,359900,Middletown
+512,Townhouse,Wolfville,375000,2,0,2,Diamond,2,16,5/12/2021,370000,Middletown
+516,Townhouse,Wolfville,401000,2,0,2,Excellent,2,43,03/08/2022,387000,Middletown
+517,Other,Wolfville,420000,2,0,2,Diamond,2,71,3/29/2022,399000,Middletown
+519,Other,Wolfville,430000,2,0,2,Mint+,2,8,5/16/2022,395000,Middletown
+521,Garden Apartment,Wolfville,429000,2,0,2,Excellent,2,98,07/08/2022,429000,Middletown
+522,Townhouse,Wolfville,365000,2,0,2,Excellent,2,98,08/03/2022,369000,Middletown
+524,Other,Wolfville,387000,2,0,2,Mint,2,27,9/14/2022,383999,Middletown
+525,Other,Wolfville,380000,2,0,2,,2,42,12/14/2022,374999,Middletown
+526,Other,Wolfville,415000,2,0,2,Mint,2,18,2/20/2023,415000,Middletown
+528,Other,Wolfville,410000,2,0,2,Mint,2,29,3/30/2023,414999,Middletown
+529,Townhouse,Wolfville,439000,2,0,2,Mint,2,8,6/22/2023,409000,Middletown
+1228,Other,Yellowstone,399000,3,0,3,Mint+,1,17,7/22/2020,399000,Affected
+1229,Other,Yellowstone,354000,2,0,2,Diamond,1,24,10/22/2020,349000,Affected
+1230,Townhouse,Yellowstone,501000,3,0,3,Excellent,1,11,03/05/2021,459500,Affected
+1231,Townhouse,Yellowstone,429000,2,0,2,Excellent,1,25,5/20/2021,399990,Affected
+1232,Townhouse,Yellowstone,545000,3,0,3,Diamond,1,86,5/28/2021,549990,Affected
+1237,Townhouse,Yellowstone,480000,3,0,3,,1,8,11/04/2021,489000,Affected
+1238,Townhouse,Yellowstone,393000,2,0,2,,1,16,1/11/2022,389000,Affected
+1239,Townhouse,Yellowstone,459000,2,1,2,Excellent,1,6,3/12/2022,459000,Affected
+1240,Other,Yellowstone,405000,2,0,2,Excellent,1,7,04/04/2022,399000,Affected
+1241,Townhouse,Yellowstone,495000,3,0,3,Mint +,1,88,06/04/2022,520000,Affected
+1242,Townhouse,Yellowstone,495000,2,0,2,Excellent,1,44,03/06/2023,495000,Affected
+1243,Other,Yellowstone,410000,2,0,2,Mint,1,49,3/17/2023,409990,Affected
+1245,Other,Yellowstone,369000,2,0,2,,1,21,4/20/2020,379990,Affected
+1233,Townhouse,Yellowstone,430000,3,0,3,Diamond,2,27,6/11/2021,459999,Affected
+1234,Other,Yellowstone,362500,2,0,2,,2,38,6/11/2021,369000,Affected
+1235,Other,Yellowstone,385000,2,0,2,Mint ++++,2,47,8/11/2021,379000,Affected
+1236,Other,Yellowstone,355000,2,0,2,Excellent,2,38,8/17/2021,365000,Affected
+1244,Other,Yellowstone,295500,2,0,2,,2,57,04/05/2020,299900,Affected
